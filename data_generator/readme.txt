@@ -1,5 +1,6 @@
 
-This folder contains scripts and sample data for Graph Reasoning. 
+This folder contains scripts and sample data for Graph Reasoning and the data for TutorQA. 
+`CGLLM.ipynb` is the script for running CGLLM pipeline.
 
 ----- 2024.1.13 Version M1 -----
 Data format is the same.
