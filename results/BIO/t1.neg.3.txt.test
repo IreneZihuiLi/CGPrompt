@@ -1,0 +1,23 @@
+  NO
+  YES.Bayesian inference can be used to infer the probability of the presence of different isoforms in a gene, so knowledge of isoforms can facilitate the application of Bayesian inference in this context. Therefore, there is a prerequisite relation between isoforms and Bayesian inference.
+  Yes.
+  NO
+  YES. 
+  Yes.
+  YES.Molecular evolution is the study of how molecules, especially DNA, RNA, and proteins, have evolved over time. Protein tertiary structure, on the other hand, refers to the three-dimensional arrangement of amino acids in a protein molecule.Understanding molecular evolution can help in understanding protein tertiary structure because the evolution of proteins is influenced by their structure and function. The sequence and structure of proteins have evolved over time to perform specific functions, and understanding this evolution can provide insights into how proteins fold into their tertiary structures.Therefore, knowledge of molecular evolution can provide a useful foundation for understanding protein tertiary structure.
+  YES
+  Yes.The prerequisite relation between DEseq and feature learning is true because DEseq is a statistical method for detecting differentially expressed genes in a transcriptome, and feature learning is a process of extracting relevant features from raw data to train machine learning models. In this case, feature learning can be a prerequisite for DEseq as it can help to identify the most relevant features that can be used to identify differentially expressed genes.
+  NO
+  Yes.
+  Yes.Markov Chain Monte Carlo (MCMC) can be used in sequence alignment to infer the evolutionary relationships between biological sequences. In this context, sequence alignment is a prerequisite for using MCMC, as the alignment must be performed before MCMC can be used to analyze the aligned sequences. Therefore, there is a prerequisite relation between sequence alignment and MCMC.
+  NO
+  YES. Protein-protein interactions can affect chromatin modification and remodeling, which can in turn affect ChIP-seq signals. For example, protein-protein interactions can influence the recruitment of transcription factors to specific genomic regions, which can result in changes in chromatin modification patterns and ChIP-seq signals. Therefore, understanding protein-protein interactions can provide valuable insights into the regulation of chromatin modification and ChIP-seq signals.
+  YES. 
+  NO
+  YES
+  YES.
+  NO
+  YES.Protein tertiary structure is a 3D arrangement of amino acids in a protein. Feature learning is a process in machine learning that involves selecting a subset of the input features that are most relevant to a problem.Understanding protein tertiary structure can help in feature learning for tasks such as protein structure prediction, protein function prediction, and protein-ligand binding affinity prediction. Knowing the tertiary structure of a protein can provide important information about the spatial arrangement of amino acids, which can be used to identify important features for feature learning algorithms.Therefore, there is a prerequisite relation between protein tertiary structure and feature learning. Learning about protein tertiary structure can help in learning feature learning techniques for protein-related tasks.
+  YES.Dynamic programming can be used to predict RNA secondary structure. RNA secondary structure is determined by the chemical and physical properties of the RNA molecule, such as base pairing and stacking interactions. Dynamic programming can be used to compute an optimal secondary structure by recursively folding the RNA molecule into its most stable configuration, based on these properties.Therefore, understanding dynamic programming can help in understanding the algorithms and techniques used to predict RNA secondary structure.
+  NO
+  NO

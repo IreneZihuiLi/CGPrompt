@@ -1,0 +1,23 @@
+  Yes
+  YES
+  YES.Bayesian inference can be used to predict protein secondary structure, so understanding Bayesian inference would help in understanding protein secondary structure.
+  NO
+  NO
+  NO
+  YES.Naive Bayes can be used to learn the probability distribution of a graph, while de Bruijn graph is a graph that represents a collection of strings, so learning Naive Bayes can help in understanding the probability distribution of the strings represented in the de Bruijn graph. Therefore, there is a prerequisite relation between Naive Bayes and de Bruijn graph.
+  Yes.The prerequisite relation between sequence alignment and DESeq is true.Sequence alignment is a method used to compare and align biological sequences, such as DNA or protein sequences, to identify similarities and differences. This process helps to identify variations in the sequences, such as single nucleotide polymorphisms (SNPs), insertions, deletions, and other types of mutations.DESeq, on the other hand, is a statistical method used to identify differentially expressed genes in a comparison of two or more sample groups. It uses a negative binomial distribution to model the count data and takes into account the sequencing depth and variance in the data.Learning sequence alignment would help in understanding the process of comparing and aligning biological sequences, which is a crucial step in identifying differentially expressed genes using DESeq. Therefore, the prerequisite relation between sequence alignment and DESeq is true.
+  YES.Bayesian inference can be used to calculate the probability of one string being a deformation of another, which is the primary idea behind edit distance. As a result, knowing Bayesian inference would make it easier to comprehend how edit distance works.
+  Yes.The prerequisite relation between logistic regression and microarray is true because logistic regression can be used to analyze data from microarrays. Microarrays are a type of biological data that measures the expression levels of thousands of genes in a single experiment. Logistic regression can be used to identify patterns in this data that are associated with specific biological outcomes, such as disease or no disease. Therefore, understanding logistic regression can help someone to better analyze and interpret microarray data.
+  NO
+  NO
+  YES.
+  NO
+  NO
+  YES
+  NO
+  Yes.Multivariate linear models are used in cross-entropy.
+  YES
+  NO
+  YES.The prerequisite relation between homology model and RNA secondary structure exists because knowing the homology model of a protein can help predict its RNA secondary structure.
+  YES
+  NO

@@ -1,0 +1,203 @@
+'''
+Add negative sampling in buiding the subgraph: we sample by ourself, not using the neg case, so we sample by the node
+'''
+import os
+import pickle
+import statistics as stats
+import random
+
+
+instruction_path='../instruction_test/1205_train/'
+data_path = '../concept_data/'
+concept_path = data_path + '322topics_final.tsv'
+annotation_positive = 'split/test_edges_positive_'
+annotation_negative = 'split/test_edges_negative_'
+
+train_annotation_positive = data_path+'split/train_edges_positive_'
+train_annotation_negative = data_path+'split/train_edges_negative_'
+
+# load concept
+concept_data = {}  # Initialize an empty dictionary
+
+# load concept as dict
+with open(concept_path, 'r') as file:
+    for line in file:
+        # Split each line at the pipe character
+        key, value = line.strip().split('|')
+        # Convert key to an integer and strip any whitespace from the value
+        concept_data[int(key)-1] = value.strip()
+
+print (len(concept_data)," concepts loaded.")
+
+# load train concept
+def load_train(batch):
+    relations = {}
+    reversed_relations={}
+    with open(train_annotation_positive+batch+'.txt') as file:
+        for line in file:
+            # Split each line at the comma and convert to integers
+            source, target = map(int, line.strip().split(','))
+
+            # Add the target to the source's list in the dictionary
+            if source in relations:
+                relations[source].append(target)
+            else:
+                relations[source] = [target]
+            
+            # add reversed relations
+            if target in reversed_relations:
+                relations[target].append(source)
+            else:
+                relations[target] = [source]
+
+    return relations,reversed_relations
+
+def load_train_neg_sampling(batch):
+    relations = {}
+    reversed_relations={}
+    with open(train_annotation_negative+batch+'.txt') as file:
+        for line in file:
+            # Split each line at the comma and convert to integers
+            source, target = map(int, line.strip().split(','))
+
+            # Add the target to the source's list in the dictionary
+            if source in relations:
+                relations[source].append(target)
+            else:
+                relations[source] = [target]
+            
+            # add reversed relations
+            if target in reversed_relations:
+                relations[target].append(source)
+            else:
+                relations[target] = [source]
+
+    return relations,reversed_relations
+
+# 1205_train, t1
+# template_head="provide \"prerequisite or dependency\" " \
+#          "relations between these key concepts. The prerequisite relation on two concepts (A,B) or A->B, means, " \
+#               "learning A would help people to learn B, note this relation is directional, " \
+#           "which means (B,A) is false but (A,B) is true. If there is no strong or directed relation, then you should answer NO. Is there such a relation between (" \
+#           # "(autoencoder,variational autoencoder" \\
+# template_mid=")? Following are some information to help you answer this: "
+# template_tail=" TELL ME YES OR NO ONLY. Add your own knowledge.\n"
+
+# 1205_train, t3
+template_head="provide \"prerequisite or dependency\" " \
+         "relations between these key concepts. The prerequisite relation on two concepts (A,B) or A->B, means, " \
+              "learning A would help people to learn B, note this relation is directional, " \
+          "which means (B,A) is false but (A,B) is true. If there is no strong or directed relation, then you should answer NO. Is there such a relation between (" \
+          # "(autoencoder,variational autoencoder" \\
+template_mid=")? Following are some information to help you answer this: "
+template_tail=" TELL ME YES OR NO ONLY. Add your own knowledge.\n"
+
+
+
+def get_neighbors(concept_ID,relations,reversed_relations):
+    neighbor_names = []
+    neighor_IDs = []
+    reversed_neighbor_names = []
+    reversed_neighor_IDs = []
+    if concept_ID in relations.keys():
+        neighor_IDs+=relations[concept_ID]
+        for nb in relations[concept_ID]:
+            neighbor_names.append(concept_data[nb])
+    if concept_ID in reversed_relations.keys():
+        reversed_neighor_IDs+=reversed_relations[concept_ID]
+        for nb in reversed_relations[concept_ID]:
+            reversed_neighbor_names.append(concept_data[nb])   
+    return  neighor_IDs, reversed_neighor_IDs, neighbor_names, reversed_neighbor_names
+    
+def get_neg_sampling(concept_ID, pos_ID_list, query_ID):
+    # same number of the pos_ID
+    if len(pos_ID_list) > 0:
+        total_neg_num = len(pos_ID_list)
+        neg_ID_list = []
+        neg_name_list = []
+        while len(neg_ID_list) < total_neg_num:
+            # sample from all concepts
+            rand_ID = random.randint(0,len(concept_data)-1)
+            if (rand_ID not in pos_ID_list) and (rand_ID != query_ID)  and (rand_ID != concept_ID):
+                neg_ID_list.append(rand_ID)
+                neg_name_list.append(concept_data[rand_ID])
+        # import pdb;pdb.set_trace()
+        # pass
+        print (neg_name_list)
+        return neg_ID_list,neg_name_list
+    else:
+        return [],[]
+    
+
+def get_content(src_ID, tgt_ID,relations,reversed_relations,relations_neg_sampling,reversed_relations_neg_sampling):
+    # given a pair (src_ID, tgt_ID), return the subgraph and linearize them as content
+    src_neighor_IDs, src_reversed_neighor_IDs, src_neighbor_names, src_reversed_neighbor_names = get_neighbors(src_ID,relations,reversed_relations)
+    tgt_neighor_IDs, tgt_reversed_neighor_IDs,  tgt_neighbor_names, tgt_reversed_neighbor_names = get_neighbors(tgt_ID,relations,reversed_relations)
+    
+    
+    # get neg sampling 
+    # _, _, src_neighbor_names_neg_sampling, src_reversed_neighbor_names_neg_sampling = get_neighbors(src_ID,relations_neg_sampling,reversed_relations_neg_sampling)
+    # _, _, tgt_neighbor_names_neg_sampling, tgt_reversed_neighbor_names_neg_sampling = get_neighbors(tgt_ID,relations_neg_sampling,reversed_relations_neg_sampling)
+    
+    # get neg sampling opt
+    _, src_neighbor_names_neg_sampling = get_neg_sampling(src_ID, src_neighor_IDs+src_reversed_neighor_IDs, tgt_ID)
+    _, tgt_neighbor_names_neg_sampling = get_neg_sampling(tgt_ID, tgt_neighor_IDs+tgt_reversed_neighor_IDs, src_ID)
+    
+    # return concept_data[tgt_ID],tgt_ID,tgt_neighbor_names
+    src_concept = concept_data[src_ID]
+    tgt_concept = concept_data[tgt_ID]
+    in_context = ""
+    if len(src_reversed_neighbor_names)>0:
+        in_context+="We know that "+ src_concept + " is a prerequisite of the following concepts: "+ ','.join(src_reversed_neighbor_names) +";"
+    if len(src_neighbor_names) > 0 :
+        in_context+=" The following concepts are the prerequisites of "+src_concept+" : "+','.join(src_neighbor_names)+';'
+    if len(tgt_reversed_neighbor_names)>0:
+        in_context+="We know that "+ tgt_concept + " is a prerequisite of the following concepts: "+ ','.join(tgt_reversed_neighbor_names) +";"
+    if len(tgt_neighbor_names) > 0 :
+        in_context+=" The following concepts are the prerequisites of "+tgt_concept+" : "+','.join(tgt_neighbor_names)+';'
+    
+    # add neg sampling
+    if len(src_neighbor_names_neg_sampling)>0:
+        in_context+="We know that "+ src_concept + " has NO relationship with following concepts: "+ ','.join(src_neighbor_names_neg_sampling) +";"
+    if len(tgt_neighbor_names_neg_sampling)>0:
+        in_context+="We know that "+ tgt_concept + " has NO relationship with following concepts: "+ ','.join(tgt_neighbor_names_neg_sampling) +";"
+    
+    
+    
+    # print (in_context)
+
+    prompt = template_head + src_concept + ' , ' + tgt_concept + template_mid + in_context + template_tail
+    return prompt
+    
+    
+    
+    
+if __name__ == "__main__":
+    
+    # batch_id = '0'
+    for batch_id in ['1','2','3','4']:
+    # for batch_id in ['0']:
+        relations,reversed_relations=load_train(batch_id)
+        
+        # add neg graph
+        relations_neg_sampling,reversed_relations_neg_sampling=load_train_neg_sampling(batch_id)
+        
+        label_path_pos = data_path + annotation_positive + batch_id + '.txt'
+        label_path_neg = data_path + annotation_negative + batch_id + '.txt'
+        os.makedirs(instruction_path, exist_ok=True)
+        with open(instruction_path+'t4.pos.'+batch_id+'.txt','w') as writer:
+            with open(label_path_pos,'r') as file:
+                for line in file:
+                    source, target=line.strip().split(',')
+                    writer.write(get_content(int(source),int(target),relations,reversed_relations,relations_neg_sampling,reversed_relations_neg_sampling))
+        with open(instruction_path+'t4.neg.'+batch_id+'.txt','w') as writer:
+            with open(label_path_neg,'r') as file:
+                for line in file:
+                    source, target=line.strip().split(',')
+                    writer.write(get_content(int(source),int(target),relations,reversed_relations,relations_neg_sampling,reversed_relations_neg_sampling))
+
+
+                    # import pdb;pdb.set_trace()
+                    # pass
+    
+

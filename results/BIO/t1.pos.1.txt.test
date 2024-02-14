@@ -1,0 +1,23 @@
+  NO
+  YES. Genome-wide association studies (GWAS) relies on the principles of Hardy-Weinberg equilibrium (HWE) to identify genetic variants associated with a particular trait or disease. HWE assumes that the frequency of each allele in a population is constant, and that the probability of an individual inheriting a particular combination of alleles is independent of the probability of another individual inheriting a different combination. GWAS uses this assumption to identify genetic variants that are associated with a particular trait or disease, by comparing the frequency of alleles in cases and controls. Therefore, understanding HWE is a prerequisite for understanding GWAS.
+  YES
+  Yes.
+  YES. 
+  YES
+  YES
+  YES
+  Yes.
+  YES.
+  YES
+  YES. 
+  Yes.
+  YES.Genome-wide association studies (GWAS) typically involve hypothesis testing, which is a statistical technique used to evaluate whether a hypothesis about a particular association between a genetic variant and a trait or disease is supported by the data. Therefore, having a basic understanding of hypothesis testing is a prerequisite for understanding GWAS.
+  NO
+  NO
+  YES.Genome-wide association studies (GWAS) and logistic regression are related, and knowing GWAS can help understand logistic regression. GWAS is a statistical method used to identify genetic variants associated with a particular trait or disease. Logistic regression is a statistical method used to model the relationship between a binary outcome and one or more predictor variables.In many cases, GWAS findings are then used as predictor variables in logistic regression models to investigate the relationship between genetic variants and the risk of developing complex diseases. Understanding the principles of GWAS can help in interpreting the results of logistic regression analyses that incorporate genetic data. Therefore, having knowledge of GWAS can facilitate the understanding of logistic regression.
+  YES.
+  YES
+  Yes
+  YES. 
+  Yes.The concept of molecular evolution can help in understanding the edit distance, as the former provides a framework for comprehending the genetic changes that occur over time, while the latter is a measure of the similarity between two DNA or protein sequences. By understanding the processes that shape molecular evolution, such as mutation and selection, one can better appreciate the factors that influence the edit distance between sequences. Therefore, learning about molecular evolution can facilitate the comprehension of edit distance.
+  NO

@@ -1,0 +1,155 @@
+1. Domain Adaptation, Syntax **No**
+2. Others, Constraint Satisfaction **No**
+3. Phonetics, Dimensionality Reduction **No**
+4. Sampling, Lexicography **No**
+5. Event Detection, Graph Convolutional Networks **Yes**
+6. Finite State Machines, Generative Adversarial Networks **No**
+7. Belief Propagation, Bootstrapping **No**
+8. Context Free Grammars, Sequence to Sequence **Yes**
+9. Linear Regression, Speech Signal Analysis **Yes**
+10. Recursive Neural Network, Greedy Algorithms **No**
+11. NLP for Databases, Computation Theory **Yes**
+12. One-shot Learning, NLP for Databases **No**
+13. Classification, Crawling the Web **No**
+14. Text Mining, Ensemble Learning **Yes**
+15. AlphaGo, Shallow Parsing **No**
+16. K Means, Latent Semantic Indexing **Yes**
+17. Morphological Disambiguation, SyntaxNet **Yes**
+18. Dependency Parsing, Syntax **Yes**
+19. Convolutional Neural Network, Seq2Seq **Yes**
+20. Classic Parsing Methods, Paraphrasing **Yes**
+21. Capsule Networks, Neural Turing Machine **No**
+22. Evaluation of Question Answering, Facial Recognition Systems **No**
+23. Memory Networks, Variable Elimination **No**
+24. Caption Generation, Handwriting Recognition **Yes**
+25. Seq2Seq, Grammar Checker **No**
+26. Autoencoders, K-NN **No**
+27. Entailment, Expert Systems **No**
+28. Maximum Likelihood Estimation, Word Embedding Variations **Yes**
+29. Evaluation of Language Modeling, The IBM Models **No**
+30. Statistical Machine Translation, One-shot Learning **No**
+31. Deep Learning Tools, Language Identification **Yes**
+32. Normalization, Weakly-Supervised Learning **Yes**
+33. Sentiment Analysis, Perceptron **No**
+34. Dialog Systems, Class Logistics **No**
+35. Speech Synthesis, Collaborative Filtering **No**
+36. Text Generation, Bayes Theorem **Yes**
+37. Question Answering, Word Distributions **Yes**
+38. Parsing, Language Identification **Yes**
+39. Sentiment Analysis, Hidden Markov Models **Yes**
+40. Heuristic Search, Normalization **No**
+41. Vector Representations, Particle Filter **No**
+42. Multi-task Learning, Social Network Extraction **Yes**
+43. Data Structures, Morphology and Semantics in Machine Translation **No**
+44. One-shot Learning, Kernel Function **No**
+45. Lexical Semantics, Harmonic Functions **No**
+46. Decision Trees, Dual Decomposition **No**
+47. Python, Handwriting Recognition **Yes**
+48. Markov Chains, Theory of Computation **Yes**
+49. Dual Decomposition, Discourse Model **No**
+1. Lexical Semantics, K Means **No**
+2. Text Mining, Gaussian Graphical Models **Yes**
+3. Shallow Parsing, Semantic Role Labeling **Yes**
+4. Paraphrasing, Chinese NLP **Yes**
+5. Social Media Analysis, Finite State Transducers **No**
+6. Natural Language Processing Intro, ResNet **No**
+7. Naive Bayes, Linear Discriminant Analysis **Yes**
+8. Message Passing, Cross Entropy **Yes**
+9. Spectral Methods, Information Theory **Yes**
+10. Discourse Parsing, Capsule Networks **No**
+11. Grammar Checker, Bootstrapping **No**
+12. Document Ranking, Neural Networks **Yes**
+13. Supertagging, One-shot Learning **No**
+14. Context Free Grammars, Message Passing **No**
+15. Speech Processing, Dimensionality Reduction **Yes**
+16. ResNet, Graph Convolutional Networks **Yes**
+17. Semantic Similarity, Document Representation **Yes**
+18. Machine Translation, Named Entity Recognition **No**
+19. Bootstrapping, Beam Search **Yes**
+20. Mean Field Approximation, Scientific Article Summarization **No**
+21. Handwriting Recognition, Manifold Learning **Yes**
+22. Multi-task Learning, Agent-based View of AI **No**
+23. Transition Based Dependency Parsing, Shift-Reduce Parsing **Yes**
+24. Restricted Boltzmann Machine, Deep Belief Networks, Monte Carlo Methods **Yes**
+25. Kernel Graphical Models, Reinforcement Learning **No**
+26. Sampling, Backpropagation **No**
+27. Gibbs Sampling, Word Distributions **Yes**
+28. Maximum Likelihood Estimation, Knowledge Representation **No**
+29. K-NN, Probabilities **Yes**
+30. Logistic Regression, Structured Prediction **Yes**
+31. Predicate Logic, Deep Q-Network **No**
+32. Event Detection, K Means **No**
+33. Inference, Heuristic Search **No**
+34. Conditional Probability, Sentence Simplification **No**
+35. Word Sense Disambiguation, Information Theory **Yes**
+36. Deep Learning Introduction, Language Identification **Yes**
+37. Neural Networks, Dirichlet Processes **No**
+38. Policy Gradient Methods, Expectation Maximization Algorithm **No**
+39. Lexical Semantics, Mean Field Approximation **No**
+40. Sequence to Sequence, Markov Random Fields **Yes**
+41. Newton Method, Text Generation **Yes**
+42. Language Modeling, Topic Modeling **Yes**
+43. Multi-modal Learning, Morphology and Semantics in Machine Translation **No**
+44. Calculus, Hidden Markov Models **No**
+45. Activation Functions, Support Vector Machines **Yes**
+46. Neural Question Answering, SyntaxNet **No**
+47. First Order Logic, Pointer Networks **No**
+48. Robotics, Graph-Based NLP **Yes**
+49. Spectral Methods, Optimization **Yes**
+50. Semantic Similarity, Multi-task Learning **Yes**
+1. Tools for DL, Context Sensitive Grammar **No**
+2. Singular Value Decomposition, Mixture Models **Yes**
+3. First-Order Logic, Convolutional Neural Network **No**
+4. KKT Conditions, Monte Carlo Methods **No**
+5. Deep Q-Network, Transition Based Dependency Parsing **No**
+6. Programming Languages, K Means **No**
+7. Attention Models, Neural Networks **Yes**
+8. Speech Synthesis, Context-Sensitive Grammars **No**
+9. Transfer Learning, Semantic Similarity **Yes**
+10. Restricted Boltzmann Machine, Deep Belief Networks, Neural Turing Machine **Yes**
+11. Dimensionality Reduction, Visual QA **Yes**
+12. Belief Propagation, Highway Networks **No**
+13. The IBM Models, Bayes Theorem **Yes**
+14. Neural Parsing, Phonetics **No**
+15. Meta-Learning, Agent-Based View of AI **No**
+16. Random Forest, Gradient Descent **No**
+17. Feature Selection, Canonical Correlation Analysis **Yes**
+18. Lagrange Duality, Variational Autoencoders **Yes**
+19. Evaluation of Language Modeling, Sentence Simplification **No**
+20. Mean Field Approximation, Autonomous Cars **No**
+21. Spelling Correction, Lexicalized Parsing **Yes**
+22. NN Sequence Parsing, Expectation Maximization Algorithm **Yes**
+23. Linear Regression, CKY Parsing **No**
+24. First-Order Logic, Chomsky Hierarchy **Yes**
+25. Stack LSTM, Grammar Checker **No**
+26. AlphaGo, Dirichlet Processes **No**
+27. Phrase Based Machine Translation, Object Detection **No**
+28. Chat Bots, Syntax Based Machine Translation **Yes**
+29. Morphological Disambiguation, ImageNet **No**
+30. Edit Distance, Semantic Parsing **Yes**
+31. Evaluation of Dependency Parsing, Entailment **No**
+32. Word Embedding Variations, Policy Gradient Methods **No**
+33. NLP for the Humanities, Evaluation of Information Retrieval **No**
+34. Kernel Graphical Models, Latent Semantic Indexing **No**
+35. Parsing Evaluation, Probabilistic Grammars **Yes**
+36. Finite State Machines, Dimensionality Reduction **No**
+37. The IBM Models, Multi-Task Learning **No**
+38. Training Neural Networks, Programming Languages **Yes**
+39. Memory Networks, Dual Decomposition **No**
+40. Part of Speech Tagging, Domain Adaptation **Yes**
+41. Convolutional Neural Network, Text Similarity **Yes**
+42. Manifold Learning, Predicate Logic **No**
+43. Statistical Machine Translation, Reading Comprehension **No**
+44. Finite State Transducers, Dynamic Programming **Yes**
+45. Bias-Variance, Statistical Parsing **Yes**
+46. Context Free Grammars, Sentiment Analysis **Yes**
+47. Machine Translation, Summarization Evaluation **Yes**
+48. Heuristic Search, Named Entity Recognition **No**
+49. Word Embedding Variations, Neural Machine Translation **Yes**
+50. Robotics, Latent Semantic Indexing **No**
+51. Markov Decision Processes, NLP for Databases **No**
+52. Document Ranking, Preprocessing **No**
+53. Question Answering, Scientific Article Summarization **No**
+54. Maximum Likelihood Estimation, Linear Regression **Yes**
+55. TSNE, Context Sensitive Grammar **No**
+56. Capsule Networks, Text Summarization **No**

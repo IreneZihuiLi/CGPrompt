@@ -1,0 +1,155 @@
+1. Semantic Parsing \(\rightarrow\) NN Sequence Parsing: **Yes**
+2. Latent Variable Models \(\rightarrow\) Expectation Maximization Algorithm: **Yes**
+3. Linguistics Basics \(\rightarrow\) Word Segmentation: **Yes**
+4. Linguistics Basics \(\rightarrow\) Parts of Speech: **Yes**
+5. Linear Algebra \(\rightarrow\) Entropy: **No**
+6. Graphical Models \(\rightarrow\) Variable Elimination: **Yes**
+7. Graph Theory \(\rightarrow\) Radial Basis Function Network: **No**
+8. Language Modeling \(\rightarrow\) Phrase Based Machine Translation: **Yes**
+9. Dynamic Programming \(\rightarrow\) Earley Parsing: **Yes**
+10. Dependency Parsing \(\rightarrow\) Evaluation of Dependency Parsing: **Yes**
+11. Calculus \(\rightarrow\) Sampling: **Yes**
+12. Matrix Multiplication \(\rightarrow\) Topic Modeling: **Yes**
+13. Deep Learning Introduction \(\rightarrow\) Word Embedding: **Yes**
+14. Linear Algebra \(\rightarrow\) Spectral Clustering: **Yes**
+15. Sampling \(\rightarrow\) Bootstrapping: **Yes**
+16. Loss Function \(\rightarrow\) Machine Learning Resources: **No**
+17. Matrix Multiplication \(\rightarrow\) Log-Linear Models: **Yes**
+18. Natural Language Processing Intro \(\rightarrow\) Automated Essay Scoring: **Yes**
+19. Entropy \(\rightarrow\) Attention Models: **Yes**
+20. Chomsky Hierarchy \(\rightarrow\) Earley Parsing: **Yes**
+21. A* Search \(\rightarrow\) Heuristic Search: **Yes**
+22. Backpropagation \(\rightarrow\) Convolutional Neural Networks: **Yes**
+23. Bayes Theorem \(\rightarrow\) Gibbs Sampling: **Yes**
+24. Latent Variable Models \(\rightarrow\) Hilbert Space: **No**
+25. Expert Systems \(\rightarrow\) Knowledge Representation: **Yes**
+26. Linear Algebra \(\rightarrow\) Backpropagation: **Yes**
+27. Problem Solving and Search \(\rightarrow\) Game Playing in AI: **Yes**
+28. Probabilities \(\rightarrow\) Evaluation of Text Classification: **Yes**
+29. WordNet \(\rightarrow\) Thesaurus-Based Similarity: **Yes**
+30. Training Neural Networks \(\rightarrow\) Recursive Neural Networks: **Yes**
+31. Planning \(\rightarrow\) Adversarial Search: **Yes**
+32. Syntax \(\rightarrow\) Dependency Syntax: **Yes**
+33. Linear Algebra \(\rightarrow\) Perceptron: **Yes**
+34. Word Distributions \(\rightarrow\) Vector Representations: **Yes**
+35. Machine Learning Resources \(\rightarrow\) Clustering: **No**
+36. Parsing Evaluation \(\rightarrow\) Transition Based Dependency Parsing: **Yes**
+37. Feature Learning \(\rightarrow\) Variational Autoencoders: **Yes**
+38. Long Short Term Memory Networks \(\rightarrow\) Memory Networks: **Yes**
+39. Loss Function \(\rightarrow\) The IBM Models: **No**
+40. Classic Parsing Methods \(\rightarrow\) Shift-Reduce Parsing: **Yes**
+41. Linear Algebra \(\rightarrow\) Activation Functions: **Yes**
+42. Question Answering \(\rightarrow\) Particle Filter: **No**
+43. Machine Translation \(\rightarrow\) The IBM Models: **Yes**
+44. Structured Learning \(\rightarrow\) t-SNE: **No**
+45. Loss Function \(\rightarrow\) Gradient Descent: **Yes**
+46. Singular Value Decomposition \(\rightarrow\) Principal Component Analysis: **Yes**
+47. Shallow Parsing \(\rightarrow\) CKY Parsing: **No**
+48. Semantic Similarity \(\rightarrow\) Text Mining: **Yes**
+49. First-Order Logic \(\rightarrow\) Calculus: **No**
+50. Beam Search \(\rightarrow\) Neural Summarization: **Yes**
+51. Vector Representations \(\rightarrow\) Bag of Words Model: **Yes**
+52. Computer Vision \(\rightarrow\) Handwriting Recognition: **Yes**
+53. Matrix Multiplication \(\rightarrow\) Entropy: **No**
+54. Linear Algebra \(\rightarrow\) Evaluation of Text Classification: **Yes**
+55. Hidden Markov Models \(\rightarrow\) Speech Synthesis: **Yes**
+56. Calculus \(\rightarrow\) Machine Translation: **No**
+1. Bayesian Network \(\rightarrow\) Hidden Markov Models: **Yes**
+2. Word Embedding Variations \(\rightarrow\) Word Sense Disambiguation: **Yes**
+3. Chomsky Hierarchy \(\rightarrow\) Context Sensitive Grammar: **Yes**
+4. Natural Language Processing Intro \(\rightarrow\) Lexical Semantics: **Yes**
+5. Information Retrieval \(\rightarrow\) Search Engines: **Yes**
+6. Loss Function \(\rightarrow\) Classification: **Yes**
+7. Classic Parsing Methods \(\rightarrow\) Part of Speech Tagging: **Yes**
+8. Linear Algebra \(\rightarrow\) Multilingual Word Embedding: **Yes**
+9. Relation Extraction \(\rightarrow\) Event Detection: **Yes**
+10. Activation Functions \(\rightarrow\) Multilingual Word Embedding: **No**
+11. Lexicalized Parsing \(\rightarrow\) Unlexicalized Parsing: **No**
+12. Preprocessing \(\rightarrow\) N-Gram Models: **Yes**
+13. Natural Language Processing Intro \(\rightarrow\) Sequence to Sequence: **Yes**
+14. Principal Component Analysis \(\rightarrow\) Manifold Learning: **Yes**
+15. Activation Functions \(\rightarrow\) Gradient Descent: **No**
+16. Conditional Probability \(\rightarrow\) Harmonic Functions: **No**
+17. Linear Algebra \(\rightarrow\) Mathematical Models: **Yes**
+18. Natural Language Processing Intro \(\rightarrow\) Grammar Checker: **Yes**
+19. Entropy \(\rightarrow\) Deep Q-Network: **No**
+20. Dependency Syntax \(\rightarrow\) Transition Based Dependency Parsing: **Yes**
+21. Probabilities \(\rightarrow\) Question Answering: **Yes**
+22. Linguistics Basics \(\rightarrow\) Transliteration: **Yes**
+23. Gradient Descent \(\rightarrow\) Highway Networks: **No**
+24. Natural Language Processing Intro \(\rightarrow\) Statistical Parsing: **Yes**
+25. Evaluation of Language Modeling \(\rightarrow\) Phrase Based Machine Translation: **Yes**
+26. Bayes Theorem \(\rightarrow\) Multi-Modal Learning: **No**
+27. Linguistics Basics \(\rightarrow\) Morphology and Lexicon: **Yes**
+28. Bayes Theorem \(\rightarrow\) PageRank: **No**
+29. Natural Language Processing Intro \(\rightarrow\) Parts of Speech: **Yes**
+30. Backpropagation \(\rightarrow\) Variations of GANs: **No**
+31. Linguistics Basics \(\rightarrow\) Discourse Analysis: **Yes**
+32. Bayes Theorem \(\rightarrow\) Naive Bayes: **Yes**
+33. Singular Value Decomposition \(\rightarrow\) Dimensionality Reduction: **Yes**
+34. Linear Algebra \(\rightarrow\) Neural Turing Machine: **No**
+35. Classification \(\rightarrow\) Generative and Discriminative Models: **Yes**
+36. Backpropagation \(\rightarrow\) Neural Turing Machine: **No**
+37. Linear Algebra \(\rightarrow\) Gradient Descent: **Yes**
+38. Natural Language Processing Intro \(\rightarrow\) Text Generation: **Yes**
+39. Linear Algebra \(\rightarrow\) Dual Problems: **Yes**
+40. Transfer Learning \(\rightarrow\) Domain Adaptation: **Yes**
+41. Sampling \(\rightarrow\) Variational Autoencoders: **Yes**
+42. Structured Learning \(\rightarrow\) Information Retrieval: **Yes**
+43. Lexical Semantics \(\rightarrow\) Context Free Grammars: **No**
+44. Probabilities \(\rightarrow\) Radial Basis Function Network: **No**
+45. Linguistics Basics \(\rightarrow\) Multilingual Word Embedding: **Yes**
+46. Kernel Function \(\rightarrow\) Radial Basis Function Network: **Yes**
+47. Conditional Probability \(\rightarrow\) Knowledge Graph: **No**
+48. Seq2Seq \(\rightarrow\) Machine Translation: **Yes**
+49. Reinforcement Learning \(\rightarrow\) Agent-Based View of AI: **Yes**
+1. Probabilities \(\rightarrow\) Robotics: **No**
+2. Natural Language Processing Intro \(\rightarrow\) Paraphrasing: **Yes**
+3. Information Theory \(\rightarrow\) Variational Autoencoders: **Yes**
+4. Probabilistic Grammars \(\rightarrow\) Combinatory Categorial Grammar: **No**
+5. Speech Processing \(\rightarrow\) Speech Synthesis: **Yes**
+6. Linguistics Basics \(\rightarrow\) Feature Selection: **No**
+7. Entropy \(\rightarrow\) Cross Entropy: **Yes**
+8. Linear Algebra \(\rightarrow\) Graph Theory: **No**
+9. Natural Language Processing Intro \(\rightarrow\) Character Level Language Models: **Yes**
+10. Natural Language Processing Intro \(\rightarrow\) Clustering: **Yes**
+11. Linguistics Basics \(\rightarrow\) Question Answering: **No**
+12. Information Extraction \(\rightarrow\) Crawling the Web: **No**
+13. Natural Language Processing Intro \(\rightarrow\) Knowledge Representation: **Yes**
+14. Seq2Seq \(\rightarrow\) NN Sequence Parsing: **No**
+15. Random Walks and Harmonic Functions \(\rightarrow\) Seq2Seq: **No**
+16. Preprocessing \(\rightarrow\) Regularization: **No**
+17. Calculus \(\rightarrow\) Radial Basis Function Network: **No**
+18. Linguistics Basics \(\rightarrow\) Structured Prediction: **No**
+19. Speech Signal Analysis \(\rightarrow\) Speech Recognition: **Yes**
+20. Machine Translation \(\rightarrow\) Text Generation: **Yes**
+21. Planning \(\rightarrow\) Game Playing in AI: **Yes**
+22. Loss Function \(\rightarrow\) Generative and Discriminative Models: **Yes**
+23. Vector Representations \(\rightarrow\) Automated Essay Scoring: **Yes**
+24. Information Retrieval \(\rightarrow\) Toolkits for Information Retrieval: **Yes**
+25. Dual Problems \(\rightarrow\) Linear Programming: **Yes**
+26. Loss Function \(\rightarrow\) Multilingual Word Embedding: **No**
+27. Conditional Probability \(\rightarrow\) Variational Bayes Models: **Yes**
+28. Seq2Seq \(\rightarrow\) Neural Machine Translation: **Yes**
+29. Natural Language Processing Intro \(\rightarrow\) Shallow Parsing: **Yes**
+30. Linguistics Basics \(\rightarrow\) Caption Generation: **No**
+31. Uncertainty \(\rightarrow\) Robotics: **No**
+32. Probabilities \(\rightarrow\) Classification: **Yes**
+33. Phrase Based Machine Translation \(\rightarrow\) Beam Search: **Yes**
+34. Matrix Multiplication \(\rightarrow\) Speech Recognition: **No**
+35. Parsing \(\rightarrow\) Neural Parsing: **Yes**
+36. Activation Functions \(\rightarrow\) Seq2Seq: **No**
+37. Text Mining \(\rightarrow\) Crawling the Web: **Yes**
+38. Recurrent Neural Networks \(\rightarrow\) Neural Question Answering: **Yes**
+39. Linguistics Basics \(\rightarrow\) Seq2Seq: **No**
+40. Parsing Evaluation \(\rightarrow\) Semantic Parsing: **Yes**
+41. Linear Algebra \(\rightarrow\) Highway Networks: **No**
+42. Random Walks and Harmonic Functions \(\rightarrow\) Restricted Boltzmann Machine, Deep Belief Networks: **No**
+43. Matrix Multiplication \(\rightarrow\) Multi-Modal Learning: **No**
+44. Machine Learning Resources \(\rightarrow\) Random Forest: **Yes**
+45. Structured Learning \(\rightarrow\) Sentence Representations: **Yes**
+46. Preprocessing \(\rightarrow\) Normalization: **Yes**
+47. Machine Learning Resources \(\rightarrow\) Game Playing in AI: **No**
+48. Neural Networks \(\rightarrow\) Memory Networks: **Yes**
+49. Word Distributions \(\rightarrow\) Context Free Grammars: **No**
+50. Monte Carlo Methods \(\rightarrow\) Latent Dirichlet Allocation: **Yes**
