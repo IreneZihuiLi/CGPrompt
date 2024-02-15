@@ -15,5 +15,5 @@ This is the GitHub repo for the paper submission.
 
 `data_generator`: help code for making and cleaning TutorQA benchmark.
 
-`data_generator/TutorQA`: the final TutorQA benchmark. 
+`data_generator/TutorQA`: the final TutorQA benchmark. We also include LLaMa, GPT4 and GPT4-CGLLM predictions. 
  
