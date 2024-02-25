@@ -1,5 +1,5 @@
 '''
-Add negative sampling in buiding the subgraph: we sample by ourself, not using the neg case, so we sample by the node
+Add negative sampling in building the subgraph: we sample by ourself, not using the neg case, so we sample by the node
 '''
 import os
 import pickle
