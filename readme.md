@@ -1,4 +1,6 @@
-## Leveraging Large Language Models for Concept Graph Recovery and Question Answering in NLP Education
+## Graphusion:
+Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education
+
 This is the GitHub repo for the paper submission. 
 
 `src`: Zero-shot and Ablation study code. Run with >> `python xxxx.py`. We include LLaMa, GPT code.
