@@ -1,0 +1,751 @@
+Question,Answer
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""programming languages"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""python"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""transformer model"" and ""representation learning"".
+Triplets: MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""programming languages"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""programming languages"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""text chunking"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""transformer model"" and ""representation learning"".
+Triplets: MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence segmentation"" and ""preprocessing"".
+Triplets: tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""transformer model"" and ""representation learning"".
+Triplets: MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""text chunking"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""python"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""programming languages"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""python"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""python"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence segmentation"" and ""preprocessing"".
+Triplets: tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross-lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence segmentation"" and ""preprocessing"".
+Triplets: tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""programming languages"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""text chunking"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross-lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""transformer model"" and ""representation learning"".
+Triplets: MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross-lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""transformer model"" and ""representation learning"".
+Triplets: MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""python"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""programming languages"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""transformer model"" and ""representation learning"".
+Triplets: MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence segmentation"" and ""preprocessing"".
+Triplets: tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""programming languages"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""transformer model"" and ""representation learning"".
+Triplets: MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross-lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""programming languages"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""text chunking"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross-lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""programming languages"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""text chunking"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence segmentation"" and ""preprocessing"".
+Triplets: tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence segmentation"" and ""preprocessing"".
+Triplets: tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""python"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""programming languages"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""python"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence segmentation"" and ""preprocessing"".
+Triplets: tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross-lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""text chunking"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""text chunking"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence segmentation"" and ""preprocessing"".
+Triplets: tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""programming languages"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence segmentation"" and ""preprocessing"".
+Triplets: tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""transformer model"" and ""representation learning"".
+Triplets: MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""programming languages"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""MIReAD"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence segmentation"" and ""preprocessing"".
+Triplets: tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""text chunking"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""programming languages"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""text chunking"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""text chunking"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""python"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross-lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""programming languages"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""python"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""python"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""python"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence segmentation"" and ""preprocessing"".
+Triplets: tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""transformer model"" and ""representation learning"".
+Triplets: MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""natural language generation"" and ""natural language understanding"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Conjunction
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""sentiment control"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""python"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""scientific documents"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; pretrained language models - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross lingual embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""programming languages"" and ""preprocessing"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - programming languages; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""story ending generation"" and ""natural language generation"".
+Triplets: story ending generation - Is-a-Prerequisite-of - sentiment control; sentence generation - Is-a-Prerequisite-of - natural language generation; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Hyponym-Of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""unsupervised bilingual lexicon induction"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; cross-lingual word embeddings - Evaluate-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""cross-lingual word embeddings"" and ""bilingual lexicon induction"".
+Triplets: cross lingual word embeddings - Used-for - bilingual lexicon induction; cross lingual embeddings - Evaluate-for - bilingual lexicon induction; unsupervised bilingual lexicon induction - Used-for - bilingual lexicon induction; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Evaluate-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""tools for dl"" and ""programming languages"".
+Triplets: sentence segmentation - Conjunction - preprocessing; tools for dl - Is-a-Prerequisite-of - python; text chunking - Conjunction - preprocessing; programming languages - Is-a-Prerequisite-of - preprocessing; python - Is-a-Prerequisite-of - preprocessing; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""pretrained language models"" and ""representation learning"".
+Triplets: transformer model - Used-for - representation learning; MIReAD - Evaluate-for - representation learning; scientific documents - Used-for - representation learning; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Used-for
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
+"Given the following triplets constituting a sub-graph, please infer the relationship between ""sentence generation"" and ""natural language generation"".
+Triplets: story ending generation - Hyponym-Of - natural language generation; story ending generation - Is-a-Prerequisite-of - sentiment control; natural language generation - Conjunction - natural language understanding; Part-of; Conjunction; Evaluate-for; Is-a-Prerequisite-of; Used-for; Hyponym-Of
+Relationships Types: Compare, Part-of, Conjunction, Evaluate-for, Is-a-Prerequisite-of, Used-for, Hyponym-Of",Is-a-Prerequisite-of
