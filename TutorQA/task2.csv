@@ -1,0 +1,251 @@
+Question,Answer
+"In the domain of Natural Language Processing, I want to learn about syntax based machine translation, what concepts should I learn first?",syntax;machine translation
+"In the domain of Natural Language Processing, I want to learn about convolutional neural networks, what concepts should I learn first?",neural networks
+"In the domain of Natural Language Processing, I want to learn about dependency syntax, what concepts should I learn first?",syntax
+"In the domain of Natural Language Processing, I want to learn about multilingual model, what concepts should I learn first?",transferring NMT model
+"In the domain of Natural Language Processing, I want to learn about NLP models, what concepts should I learn first?",tokenization
+"In the domain of Natural Language Processing, I want to learn about visual knowledge augmentation, what concepts should I learn first?",visual semantic
+"In the domain of Natural Language Processing, I want to learn about image retrieval, what concepts should I learn first?",information retrieval
+"In the domain of Natural Language Processing, I want to learn about multilingual word embedding, what concepts should I learn first?",word embedding variations
+"In the domain of Natural Language Processing, I want to learn about robotic locomotion, what concepts should I learn first?",robotics
+"In the domain of Natural Language Processing, I want to learn about Visual QA, what concepts should I learn first?",question answering
+"In the domain of Natural Language Processing, I want to learn about heuristic search, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about question answering, what concepts should I learn first?",probabilities;bayes theorem
+"In the domain of Natural Language Processing, I want to learn about thesaurus-based similarity, what concepts should I learn first?",lexical semantics;wordnet;semantic similarity
+"In the domain of Natural Language Processing, I want to learn about Variations of GANs, what concepts should I learn first?",generative adversarial networks;generative and discriminative models;backpropagation;loss function
+"In the domain of Natural Language Processing, I want to learn about context free grammars, what concepts should I learn first?",structured learning;linguistics basics;word distributions;vector semantics;vector representations;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about uncertainty, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about bag of words model, what concepts should I learn first?",vector representations
+"In the domain of Natural Language Processing, I want to learn about pagerank, what concepts should I learn first?",graph-based nlp
+"In the domain of Natural Language Processing, I want to learn about neural summarization, what concepts should I learn first?",seq2seq;beam search;text summarization
+"In the domain of Natural Language Processing, I want to learn about Meta-Learning, what concepts should I learn first?",probabilities;optimization;machine learning resources;loss function
+"In the domain of Natural Language Processing, I want to learn about sequence classification and conditional random fields, what concepts should I learn first?",classification;machine learning resources
+"In the domain of Natural Language Processing, I want to learn about morphology and semantics in machine translation, what concepts should I learn first?",machine translation
+"In the domain of Natural Language Processing, I want to learn about Variations of GANs, what concepts should I learn first?",generative adversarial networks;generative and discriminative models;backpropagation;loss function
+"In the domain of Natural Language Processing, I want to learn about named entity recognition, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about bayes theorem, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about text summarization, what concepts should I learn first?",sentence representations
+"In the domain of Natural Language Processing, I want to learn about classification, what concepts should I learn first?",probabilities;loss function
+"In the domain of Natural Language Processing, I want to learn about vector representations, what concepts should I learn first?",structured learning;word distributions;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about evaluation of question answering, what concepts should I learn first?",question answering
+"In the domain of Natural Language Processing, I want to learn about bio text mining, what concepts should I learn first?",structured learning;linguistics basics;text similarity;vector semantics;vector representations;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about lexicography, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about informed search, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about KKT conditions, what concepts should I learn first?",optimization
+"In the domain of Natural Language Processing, I want to learn about unsupervised machine translation, what concepts should I learn first?",monolingual word embeddings
+"In the domain of Natural Language Processing, I want to learn about recursive neural network, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about Visual QA, what concepts should I learn first?",question answering
+"In the domain of Natural Language Processing, I want to learn about problem solving and search, what concepts should I learn first?",search;probabilities
+"In the domain of Natural Language Processing, I want to learn about pointer networks, what concepts should I learn first?",training neural networks
+"In the domain of Natural Language Processing, I want to learn about bio text mining, what concepts should I learn first?",structured learning;linguistics basics;text similarity;vector semantics;vector representations;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about evaluation of question answering, what concepts should I learn first?",question answering
+"In the domain of Natural Language Processing, I want to learn about parsing, what concepts should I learn first?",natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about semantic role labeling, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about Message Passing, what concepts should I learn first?",matrix multiplication
+"In the domain of Natural Language Processing, I want to learn about vector representations, what concepts should I learn first?",structured learning;word distributions;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about course introduction, what concepts should I learn first?",probabilities;linguistics basics;hidden markov models;part of speech tagging;dynamic programming;statistical part of speech tagging;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about machine translation techniques, what concepts should I learn first?",machine translation
+"In the domain of Natural Language Processing, I want to learn about monolingual word embeddings, what concepts should I learn first?",bilingual word embeddings
+"In the domain of Natural Language Processing, I want to learn about computation theory, what concepts should I learn first?",chomsky hierarchy
+"In the domain of Natural Language Processing, I want to learn about unsupervised machine translation, what concepts should I learn first?",monolingual word embeddings
+"In the domain of Natural Language Processing, I want to learn about context free grammars, what concepts should I learn first?",structured learning;linguistics basics;word distributions;vector semantics;vector representations;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about topic modeling, what concepts should I learn first?",word distributions;latent variable models
+"In the domain of Natural Language Processing, I want to learn about information extraction, what concepts should I learn first?",toolkits for information retrieval;linguistics basics;text similarity;sentence representations;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about newton method, what concepts should I learn first?",optimization
+"In the domain of Natural Language Processing, I want to learn about Mixture Models, what concepts should I learn first?",probabilities;clustering;Gaussian graphical models
+"In the domain of Natural Language Processing, I want to learn about reinforcement learning, what concepts should I learn first?",Unsupervised learning
+"In the domain of Natural Language Processing, I want to learn about propositional logic, what concepts should I learn first?",logic and logical agents;linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about pagerank, what concepts should I learn first?",graph-based nlp
+"In the domain of Natural Language Processing, I want to learn about bayesian network, what concepts should I learn first?",probabilities;bayes theorem
+"In the domain of Natural Language Processing, I want to learn about speech synthesis, what concepts should I learn first?",speech processing;linguistics basics;machine learning resources
+"In the domain of Natural Language Processing, I want to learn about latent dirichlet allocation, what concepts should I learn first?",machine learning resources;monte carlo methods;latent variable models;Markov chains
+"In the domain of Natural Language Processing, I want to learn about summarization evaluation, what concepts should I learn first?",text summarization
+"In the domain of Natural Language Processing, I want to learn about dependency parsing, what concepts should I learn first?",parsing
+"In the domain of Natural Language Processing, I want to learn about monte carlo methods, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about preprocessing, what concepts should I learn first?",programming languages;python
+"In the domain of Natural Language Processing, I want to learn about computational phonology, what concepts should I learn first?",linguistics basics
+"In the domain of Natural Language Processing, I want to learn about shift-reduce parsing, what concepts should I learn first?",syntax;classic parsing methods;linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about NLP models, what concepts should I learn first?",tokenization
+"In the domain of Natural Language Processing, I want to learn about lexicography, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about graph-based nlp, what concepts should I learn first?",natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about question answering system, what concepts should I learn first?",semantic units
+"In the domain of Natural Language Processing, I want to learn about discourse relation identification, what concepts should I learn first?",relation prediction
+"In the domain of Natural Language Processing, I want to learn about question answering, what concepts should I learn first?",probabilities;bayes theorem
+"In the domain of Natural Language Processing, I want to learn about feature selection, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about morphology and lexicon, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about transition based dependency parsing, what concepts should I learn first?",dependency parsing;shift-reduce parsing
+"In the domain of Natural Language Processing, I want to learn about weakly-supervised learning, what concepts should I learn first?",random walks and harmonic functions
+"In the domain of Natural Language Processing, I want to learn about unsupervised machine translation, what concepts should I learn first?",monolingual word embeddings
+"In the domain of Natural Language Processing, I want to learn about Message Passing, what concepts should I learn first?",matrix multiplication
+"In the domain of Natural Language Processing, I want to learn about probabilistic context free grammars, what concepts should I learn first?",linguistics basics;probabilistic grammars;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about Dirichlet Processes, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about dependency parsing, what concepts should I learn first?",parsing
+"In the domain of Natural Language Processing, I want to learn about stack lstm, what concepts should I learn first?",deep learning introduction;training neural networks
+"In the domain of Natural Language Processing, I want to learn about lexicalized parsing, what concepts should I learn first?",parsing
+"In the domain of Natural Language Processing, I want to learn about visual knowledge augmentation, what concepts should I learn first?",visual semantic
+"In the domain of Natural Language Processing, I want to learn about graph convolutional networks, what concepts should I learn first?",semi-supervised learning;convolutional neural networks;training neural networks
+"In the domain of Natural Language Processing, I want to learn about multilingual word embedding, what concepts should I learn first?",word embedding variations
+"In the domain of Natural Language Processing, I want to learn about game playing in ai, what concepts should I learn first?",search;problem solving and search;machine learning resources;multi-agent systems
+"In the domain of Natural Language Processing, I want to learn about logic and logical agents, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about unsupervised speech recognition, what concepts should I learn first?",speech translation model
+"In the domain of Natural Language Processing, I want to learn about document ranking, what concepts should I learn first?",information retrieval
+"In the domain of Natural Language Processing, I want to learn about Multi-News dataset creation, what concepts should I learn first?",extractive summarization
+"In the domain of Natural Language Processing, I want to learn about Neural extractive summarization, what concepts should I learn first?",extractive summarization
+"In the domain of Natural Language Processing, I want to learn about regular expressions, what concepts should I learn first?",natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about text summarization, what concepts should I learn first?",sentence representations
+"In the domain of Natural Language Processing, I want to learn about social network extraction, what concepts should I learn first?",probabilities;information extraction
+"In the domain of Natural Language Processing, I want to learn about knowledge representation, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about sentence simplification, what concepts should I learn first?",linguistics basics;sentence representations;semantic similarity;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about informed search, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about weakly-supervised learning, what concepts should I learn first?",random walks and harmonic functions
+"In the domain of Natural Language Processing, I want to learn about sentence simplification, what concepts should I learn first?",linguistics basics;sentence representations;semantic similarity;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about dual decomposition, what concepts should I learn first?",optimization
+"In the domain of Natural Language Processing, I want to learn about latent variable models, what concepts should I learn first?",probabilities;loss function
+"In the domain of Natural Language Processing, I want to learn about recursive neural network, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about monte carlo methods, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about AlphaGo, what concepts should I learn first?",monte carlo tree search
+"In the domain of Natural Language Processing, I want to learn about graph convolutional networks, what concepts should I learn first?",semi-supervised learning;convolutional neural networks;training neural networks
+"In the domain of Natural Language Processing, I want to learn about computational phonology, what concepts should I learn first?",linguistics basics
+"In the domain of Natural Language Processing, I want to learn about Vision Transformer, what concepts should I learn first?",computer vision
+"In the domain of Natural Language Processing, I want to learn about Markov Random Fields, what concepts should I learn first?",graphical models
+"In the domain of Natural Language Processing, I want to learn about Lagrange duality, what concepts should I learn first?",optimization
+"In the domain of Natural Language Processing, I want to learn about syntaxnet, what concepts should I learn first?",syntax;part of speech tagging;word embedding;parsing;penn treebank;neural networks
+"In the domain of Natural Language Processing, I want to learn about logic and logical agents, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about structured sparsity, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about gibbs sampling, what concepts should I learn first?",Sampling
+"In the domain of Natural Language Processing, I want to learn about robotic locomotion, what concepts should I learn first?",robotics
+"In the domain of Natural Language Processing, I want to learn about question answering, what concepts should I learn first?",probabilities;bayes theorem
+"In the domain of Natural Language Processing, I want to learn about finite state transducers, what concepts should I learn first?",finite state machines
+"In the domain of Natural Language Processing, I want to learn about word distributions, what concepts should I learn first?",structured learning;probabilities;n-gram models
+"In the domain of Natural Language Processing, I want to learn about vector semantics, what concepts should I learn first?",structured learning
+"In the domain of Natural Language Processing, I want to learn about neural turing machine, what concepts should I learn first?",recurrent neural networks;deep learning introduction
+"In the domain of Natural Language Processing, I want to learn about a* search, what concepts should I learn first?",search;heuristic search
+"In the domain of Natural Language Processing, I want to learn about Neural extractive summarization, what concepts should I learn first?",extractive summarization
+"In the domain of Natural Language Processing, I want to learn about expectation maximization algorithm, what concepts should I learn first?",latent variable models;Mixture Models
+"In the domain of Natural Language Processing, I want to learn about uncertainty, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about spelling correction, what concepts should I learn first?",chinese nlp;linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about relation extraction, what concepts should I learn first?",linguistics basics;semantic similarity;random walks and harmonic functions;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about information extraction, what concepts should I learn first?",toolkits for information retrieval;linguistics basics;text similarity;sentence representations;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about semi supervised learning, what concepts should I learn first?",parsing
+"In the domain of Natural Language Processing, I want to learn about character level language models, what concepts should I learn first?",evaluation of language modeling;word distributions
+"In the domain of Natural Language Processing, I want to learn about morphological analysis, what concepts should I learn first?",morphological typology
+"In the domain of Natural Language Processing, I want to learn about recursive neural network, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about transition based dependency parsing, what concepts should I learn first?",dependency parsing;shift-reduce parsing
+"In the domain of Natural Language Processing, I want to learn about convolutional neural networks, what concepts should I learn first?",neural networks
+"In the domain of Natural Language Processing, I want to learn about prosody, what concepts should I learn first?",linguistics basics
+"In the domain of Natural Language Processing, I want to learn about transition based dependency parsing, what concepts should I learn first?",dependency parsing;shift-reduce parsing
+"In the domain of Natural Language Processing, I want to learn about robotics, what concepts should I learn first?",uncertainty;reinforcement learning
+"In the domain of Natural Language Processing, I want to learn about stack lstm, what concepts should I learn first?",deep learning introduction;training neural networks
+"In the domain of Natural Language Processing, I want to learn about Markov Random Fields, what concepts should I learn first?",graphical models
+"In the domain of Natural Language Processing, I want to learn about graph convolutional networks, what concepts should I learn first?",semi-supervised learning;convolutional neural networks;training neural networks
+"In the domain of Natural Language Processing, I want to learn about chomsky hierarchy, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about agent-based view of ai, what concepts should I learn first?",reinforcement learning;logic and logical agents
+"In the domain of Natural Language Processing, I want to learn about bayesian network, what concepts should I learn first?",probabilities;bayes theorem
+"In the domain of Natural Language Processing, I want to learn about synthetic data generation, what concepts should I learn first?",generative language model
+"In the domain of Natural Language Processing, I want to learn about expert systems, what concepts should I learn first?",logic and logical agents
+"In the domain of Natural Language Processing, I want to learn about finite state transducers, what concepts should I learn first?",finite state machines
+"In the domain of Natural Language Processing, I want to learn about pagerank, what concepts should I learn first?",graph-based nlp
+"In the domain of Natural Language Processing, I want to learn about Markov Random Fields, what concepts should I learn first?",graphical models
+"In the domain of Natural Language Processing, I want to learn about edit distance, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about multimodal fusion, what concepts should I learn first?",multimodal embeddings
+"In the domain of Natural Language Processing, I want to learn about Autoencoders, what concepts should I learn first?",maximum likelihood estimation;backpropagation;neural networks;loss function
+"In the domain of Natural Language Processing, I want to learn about a* search, what concepts should I learn first?",search;heuristic search
+"In the domain of Natural Language Processing, I want to learn about finite state transducers, what concepts should I learn first?",finite state machines
+"In the domain of Natural Language Processing, I want to learn about spectral clustering, what concepts should I learn first?",machine learning resources;Unsupervised learning
+"In the domain of Natural Language Processing, I want to learn about vector representations, what concepts should I learn first?",structured learning;word distributions;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about expectation maximization algorithm, what concepts should I learn first?",latent variable models;Mixture Models
+"In the domain of Natural Language Processing, I want to learn about pointer networks, what concepts should I learn first?",training neural networks
+"In the domain of Natural Language Processing, I want to learn about evaluation of question answering, what concepts should I learn first?",question answering
+"In the domain of Natural Language Processing, I want to learn about informed search, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about hidden markov models, what concepts should I learn first?",probabilities;bayesian network
+"In the domain of Natural Language Processing, I want to learn about machine translation techniques, what concepts should I learn first?",machine translation
+"In the domain of Natural Language Processing, I want to learn about random walks and harmonic functions, what concepts should I learn first?",machine learning resources
+"In the domain of Natural Language Processing, I want to learn about Mixture Models, what concepts should I learn first?",probabilities;clustering;Gaussian graphical models
+"In the domain of Natural Language Processing, I want to learn about mathematical models, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about Multi-News dataset creation, what concepts should I learn first?",extractive summarization
+"In the domain of Natural Language Processing, I want to learn about relation extraction, what concepts should I learn first?",linguistics basics;semantic similarity;random walks and harmonic functions;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about statistical parsing, what concepts should I learn first?",probabilities;parsing
+"In the domain of Natural Language Processing, I want to learn about Mean Field Approximation, what concepts should I learn first?",graphical models
+"In the domain of Natural Language Processing, I want to learn about Principal Component Analysis, what concepts should I learn first?",dimensionality reduction;singular value decomposition
+"In the domain of Natural Language Processing, I want to learn about recursive neural networks, what concepts should I learn first?",training neural networks
+"In the domain of Natural Language Processing, I want to learn about end-to-end ST, what concepts should I learn first?",speech translation model
+"In the domain of Natural Language Processing, I want to learn about the ibm models, what concepts should I learn first?",machine translation
+"In the domain of Natural Language Processing, I want to learn about heuristic search, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about variational bayes models, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about speech processing, what concepts should I learn first?",probabilities;linguistics basics;speech signal analysis;natural language processing intro;loss function
+"In the domain of Natural Language Processing, I want to learn about question answering system, what concepts should I learn first?",semantic units
+"In the domain of Natural Language Processing, I want to learn about expert systems, what concepts should I learn first?",logic and logical agents
+"In the domain of Natural Language Processing, I want to learn about question answering, what concepts should I learn first?",probabilities;bayes theorem
+"In the domain of Natural Language Processing, I want to learn about text summarization, what concepts should I learn first?",sentence representations
+"In the domain of Natural Language Processing, I want to learn about question answering system, what concepts should I learn first?",semantic units
+"In the domain of Natural Language Processing, I want to learn about semi-supervised learning, what concepts should I learn first?",machine learning resources;random walks and harmonic functions
+"In the domain of Natural Language Processing, I want to learn about social media analysis, what concepts should I learn first?",sentiment analysis;relation extraction;information extraction
+"In the domain of Natural Language Processing, I want to learn about graph-based nlp, what concepts should I learn first?",natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about lexicography, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about stack lstm, what concepts should I learn first?",deep learning introduction;training neural networks
+"In the domain of Natural Language Processing, I want to learn about speech processing, what concepts should I learn first?",probabilities;linguistics basics;speech signal analysis;natural language processing intro;loss function
+"In the domain of Natural Language Processing, I want to learn about multimodal fusion, what concepts should I learn first?",multimodal embeddings
+"In the domain of Natural Language Processing, I want to learn about social media analysis, what concepts should I learn first?",sentiment analysis;relation extraction;information extraction
+"In the domain of Natural Language Processing, I want to learn about gibbs sampling, what concepts should I learn first?",Sampling
+"In the domain of Natural Language Processing, I want to learn about monte carlo tree search, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about Lagrange duality, what concepts should I learn first?",optimization
+"In the domain of Natural Language Processing, I want to learn about heuristic search, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about classification, what concepts should I learn first?",probabilities;loss function
+"In the domain of Natural Language Processing, I want to learn about kernel function, what concepts should I learn first?",machine learning resources
+"In the domain of Natural Language Processing, I want to learn about spelling correction, what concepts should I learn first?",chinese nlp;linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about neural question answering, what concepts should I learn first?",convolutional neural network;question answering;long short term memory networks;recurrent neural networks;neural networks
+"In the domain of Natural Language Processing, I want to learn about adversarial purification, what concepts should I learn first?",computer vision
+"In the domain of Natural Language Processing, I want to learn about evaluation of language modeling, what concepts should I learn first?",language modeling
+"In the domain of Natural Language Processing, I want to learn about regular expressions, what concepts should I learn first?",natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about KKT conditions, what concepts should I learn first?",optimization
+"In the domain of Natural Language Processing, I want to learn about nlp and vision, what concepts should I learn first?",linguistics basics;computer vision;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about computation theory, what concepts should I learn first?",chomsky hierarchy
+"In the domain of Natural Language Processing, I want to learn about first-order logic, what concepts should I learn first?",semi supervised learning;penn treebank
+"In the domain of Natural Language Processing, I want to learn about social network extraction, what concepts should I learn first?",probabilities;information extraction
+"In the domain of Natural Language Processing, I want to learn about document ranking, what concepts should I learn first?",information retrieval
+"In the domain of Natural Language Processing, I want to learn about markov chain monte carlo, what concepts should I learn first?",Markov chains;Sampling
+"In the domain of Natural Language Processing, I want to learn about nlp for the humanities, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about word segmentation, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about Naive Bayes, what concepts should I learn first?",probabilities
+"In the domain of Natural Language Processing, I want to learn about hybrid retrieval, what concepts should I learn first?",dense retrieval
+"In the domain of Natural Language Processing, I want to learn about random walks and harmonic functions, what concepts should I learn first?",machine learning resources
+"In the domain of Natural Language Processing, I want to learn about sentence representations, what concepts should I learn first?",structured learning
+"In the domain of Natural Language Processing, I want to learn about regular expressions, what concepts should I learn first?",natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about neural turing machine, what concepts should I learn first?",recurrent neural networks;deep learning introduction
+"In the domain of Natural Language Processing, I want to learn about dual decomposition, what concepts should I learn first?",optimization
+"In the domain of Natural Language Processing, I want to learn about bag of words model, what concepts should I learn first?",vector representations
+"In the domain of Natural Language Processing, I want to learn about named entity recognition, what concepts should I learn first?",linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about computation theory, what concepts should I learn first?",chomsky hierarchy
+"In the domain of Natural Language Processing, I want to learn about loss function, what concepts should I learn first?",machine learning resources
+"In the domain of Natural Language Processing, I want to learn about logic and logical agents, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about phonetics, what concepts should I learn first?",linguistics basics
+"In the domain of Natural Language Processing, I want to learn about logistic regression, what concepts should I learn first?",machine learning resources
+"In the domain of Natural Language Processing, I want to learn about unsupervised speech-to-text translation, what concepts should I learn first?",speech translation model
+"In the domain of Natural Language Processing, I want to learn about course introduction, what concepts should I learn first?",probabilities;linguistics basics;hidden markov models;part of speech tagging;dynamic programming;statistical part of speech tagging;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about parsing, what concepts should I learn first?",natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about gated recurrent units, what concepts should I learn first?",recurrent neural networks
+"In the domain of Natural Language Processing, I want to learn about Neural extractive summarization, what concepts should I learn first?",extractive summarization
+"In the domain of Natural Language Processing, I want to learn about character level language models, what concepts should I learn first?",evaluation of language modeling;word distributions
+"In the domain of Natural Language Processing, I want to learn about language models, what concepts should I learn first?",regularization
+"In the domain of Natural Language Processing, I want to learn about gated recurrent units, what concepts should I learn first?",recurrent neural networks
+"In the domain of Natural Language Processing, I want to learn about EigenSent algorithm, what concepts should I learn first?",spectral method
+"In the domain of Natural Language Processing, I want to learn about propositional logic, what concepts should I learn first?",logic and logical agents;linguistics basics;natural language processing intro
+"In the domain of Natural Language Processing, I want to learn about graph convolutional networks, what concepts should I learn first?",semi-supervised learning;convolutional neural networks;training neural networks
+"In the domain of Natural Language Processing, I want to learn about matrix factorization, what concepts should I learn first?",machine learning resources;Principal Component Analysis
+"In the domain of Natural Language Processing, I want to learn about dependency parsing, what concepts should I learn first?",parsing
+"In the domain of Natural Language Processing, I want to learn about Manifold Learning, what concepts should I learn first?",probabilities;feature learning;dimensionality reduction;Principal Component Analysis
+"In the domain of Natural Language Processing, I want to learn about tools for dl, what concepts should I learn first?",programming languages;python
+"In the domain of Natural Language Processing, I want to learn about social network extraction, what concepts should I learn first?",probabilities;information extraction
+"In the domain of Natural Language Processing, I want to learn about computational phonology, what concepts should I learn first?",linguistics basics
+"In the domain of Natural Language Processing, I want to learn about agent-based view of ai, what concepts should I learn first?",reinforcement learning;logic and logical agents
+"In the domain of Natural Language Processing, I want to learn about Autoencoders, what concepts should I learn first?",maximum likelihood estimation;backpropagation;neural networks;loss function
+"In the domain of Natural Language Processing, I want to learn about morphological analysis, what concepts should I learn first?",morphological typology
+"In the domain of Natural Language Processing, I want to learn about hybrid retrieval, what concepts should I learn first?",dense retrieval
+"In the domain of Natural Language Processing, I want to learn about logic and logical agents, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about heuristic search, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about heuristic search, what concepts should I learn first?",search
+"In the domain of Natural Language Processing, I want to learn about expectation maximization algorithm, what concepts should I learn first?",latent variable models;Mixture Models
+"In the domain of Natural Language Processing, I want to learn about the ibm models, what concepts should I learn first?",machine translation
+"In the domain of Natural Language Processing, I want to learn about Unsupervised learning, what concepts should I learn first?",machine learning resources;random walks and harmonic functions
+"In the domain of Natural Language Processing, I want to learn about toolkits for information retrieval, what concepts should I learn first?",information retrieval
+"In the domain of Natural Language Processing, I want to learn about Sequence to sequence, what concepts should I learn first?",linguistics basics;natural language processing intro
