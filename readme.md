@@ -1,21 +1,29 @@
-## Graphusion:
-Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education
+## Graphusion: Leveraging Large Language Models for Scientific Knowledge Graph Fusion and Construction in NLP Education
 
 This is the GitHub repo for the paper submission. 
 
-`src`: Zero-shot and Ablation study code. Run with >> `python xxxx.py`. We include LLaMa, GPT code.
+![Graphusion](graphusion_model.jpeg)
 
-`simple_baselines_src`: Simple classifier baseline source code.
 
-`supervised_baselines_src`: GCN-based models for supervised methods. Check the readme for more information. 
+`TutorQA`: TutorQA dataset, containing 6 tasks. 
 
-`embedding_src`: code and embedding for applying LLaMa and GPT models.
+`fusion_results`: The results in txt format from Graphusion framework.
 
-`RAG_src`: Source code for RAG settings.
+`Graphusion`: Python script for Graphusion implementation.
 
-`concept_data`: dataset containing 3 domains.
+`Link Prediction`: Python script for Graphusion - Link Prediction module implementation:
+- `src`: Zero-shot and Ablation study code. Run with >> `python xxxx.py`. We include LLaMa, GPT code.
 
-`data_generator`: help code for making and cleaning TutorQA benchmark.
+- `simple_baselines_src`: Simple classifier baseline source code.
 
-`data_generator/TutorQA`: the final TutorQA benchmark. We also include LLaMa, GPT4 and GPT4-CGLLM predictions. 
+- `supervised_baselines_src`: GCN-based models for supervised methods. Check the readme for more information. 
+
+- `embedding_src`: code and embedding for applying LLaMa and GPT models.
+
+- `RAG_src`: Source code for RAG settings.
+
+`concept_data`: text and labeled data used in the experiments.
+
+`data_generator`: helpful code for making and cleaning TutorQA benchmark.
+
  

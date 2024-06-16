@@ -1,0 +1,7 @@
+Compare: 256
+Part-of: 524
+Conjunction: 912
+Evaluate-for: 270
+Is-a-Prerequisite-of: 906
+Used-for: 318
+Hyponym-Of: 466

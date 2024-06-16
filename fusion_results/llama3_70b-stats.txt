@@ -1,0 +1,14 @@
+Compare: 372
+Part-of: 512
+Conjunction: 273
+Evaluate-for: 288
+Is-a-Prerequisite-of: 494
+Used-for: 206
+Hyponym-Of: 278
+Compare: 372
+Part-of: 512
+Conjunction: 273
+Evaluate-for: 288
+Is-a-Prerequisite-of: 494
+Used-for: 206
+Hyponym-Of: 278
