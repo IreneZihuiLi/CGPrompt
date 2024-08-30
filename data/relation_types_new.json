@@ -1,0 +1,35 @@
+{
+  "Compare": {
+    "label": "Compare",
+    "description": "Represents a relationship between two or more entities where a comparison is being made. For example, \"A is larger than B\" or \"X is more efficient than Y.\""
+  },
+  "Part-of": {
+    "label": "Part-of",
+    "description": "Denotes a relationship where one entity is a constituent or component of another. For instance, \"Wheel is a part of a Car.\""
+  },
+  "Conjunction": {
+    "label": "Conjunction",
+    "description": "Indicates a logical or semantic relationship where two or more entities are connected to form a group or composite idea. For example, \"Salt and Pepper.\""
+  },
+  "Evaluate-for": {
+    "label": "Evaluate-for",
+    "description": "Represents an evaluative relationship where one entity is assessed in the context of another. For example, \"A tool is evaluated for its effectiveness.\""
+  },
+  "Is-a-Prerequisite-of": {
+    "label": "Is-a-Prerequisite-of",
+    "description": "This dual-purpose relationship implies that one entity is either a characteristic of another or a required precursor for another. For instance, \"The ability to code is a prerequisite of software development.\""
+
+  },
+  "Used-for": {
+     "label": "Used-for",
+    "description": "Denotes a functional relationship where one entity is utilized in accomplishing or facilitating the other. For example, \"A hammer is used for driving nails.\""
+
+  },
+  "Hyponym-Of": {
+     "label":  "Hyponym-Of",
+    "description": "Establishes a hierarchical relationship where one entity is a more specific version or subtype of another. For instance, \"A Sedan is a hyponym of a Car.\""
+
+  }
+}
+
+

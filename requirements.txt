@@ -1,0 +1,6 @@
+openai
+notebook
+langchain
+langchain-openai
+pandas
+networkx[default]

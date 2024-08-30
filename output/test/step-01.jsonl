@@ -1,0 +1,4 @@
+{"s": "OCR post-correction", "p": "Compare", "o": "spelling correction", "id": 0, "concept": "spelling correction"}
+{"s": "OCR post-correction", "p": "Part-of", "o": "sequence-to-sequence model", "id": 0, "concept": "spelling correction"}
+{"s": "Neural network models", "p": "Compare", "o": "Multi-task learning", "id": 1, "concept": "neural network"}
+{"s": "Neural network models", "p": "Evaluate-for", "o": "Shared layers", "id": 1, "concept": "neural network"}

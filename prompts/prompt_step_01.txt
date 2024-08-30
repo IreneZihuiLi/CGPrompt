@@ -1,0 +1,14 @@
+### Instruction:
+You are a domain expert in computer science, natural language processing, and now you are building a knowledge graph in this domain. Given a context (### Content), and a query concept (### Concept), do the following:
+1. Extract the query concept and some in-domain concepts from the context, these concepts should be fine-grained: could be introduced by a lecture slide page, or a whole lecture, or possibly to have a Wikipedia page.
+2. Determine the relationships between the query concept and the extracted concepts from Step 1, in a triplet format: (<head concept>, <relation>, <tail concept>). The relationship should be functional, aiding learners in understanding the knowledge. The query concept can be the head concept or tail concept. We define 7 types of the relations:
+    {relation_definitions}
+3. Some relation types are strictly directional. For example, "A tool is evaluated for B" indicates (A, Evaluate-for, B), NOT (B, Evaluate-for, A). Among the seven relation types, only "a) Compare" and "c) Conjunction" are not direction-sensitive.
+4. You can also extract triplets from the extracted concepts, and the query concept may not be necessary in the triplets.
+5. Your answer should ONLY contain a list of triplets, each triplet is in this format: (concept, relation, concept). For example: "(concept, relation, concept)(concept, relation, concept)." No numbering and other explanations are needed.
+6. If ### Content is empty, output None.
+
+
+### Content: {abstracts}
+
+### Concept: {concepts}

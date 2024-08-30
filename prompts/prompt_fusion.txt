@@ -1,0 +1,21 @@
+###Instruction: You are a knowledge graph builder. Now please fuse two sub-knowledge graphs about the concept "{concept}".
+Graph 1:
+{graph1}
+
+Graph 2:
+{graph2}
+
+Rules for Fusing the Graphs:
+1. Union the concepts and edges.
+2. If two concepts are similar, or they are referring to the same concept, combine them as one concept by keeping the meaningful or specific one. For example, "lstm" versus "long short-term memory",  please keep "long short-term memory".
+3. We only allow one relation to exist between two concepts, if there is a conflict,  read the following "##background" to help you keep the correct one. knowledge to keep the correct one.  For example, (ROUGE, Evaluate-for, question answering model) and (ROUGE,Used-for , question answering model) are considered to be conflicts.
+4. Once step 3 is done, consider every possible concept pair, which did not occur in step 2. For example, take a concept in G1, and match a concept from G2. And look at the "##background" ,  and summarize new triplets.
+
+Hint: the relation types and their definition. You can use it to do Step 3:
+    {relation_definitions}
+
+
+
+##Background: {background}
+
+###Output Instruction: Output the new merged data by listing the triplets.	Your answer should ONLY contain triplets in this format: (concept, relation, concept). No other explanations or numbering are needed. Only triplets, no intermediate results.
