@@ -1,5 +1,2 @@
-*__pycache__*
-*egg-info*
-.idea/
-venv/
-venv/*
+private_config.json
+.idea
