@@ -1,4 +1,7 @@
 private_config.json
 .idea
 .DS_Store
-data/concept_abstracts_70.json
+data/*
+!data/test
+output
+

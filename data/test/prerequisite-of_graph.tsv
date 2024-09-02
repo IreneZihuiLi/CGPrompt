@@ -1,0 +1,471 @@
+syntax	Is-a-Prerequisite-of	cky parsing
+syntax	Is-a-Prerequisite-of	syntaxnet
+syntax	Is-a-Prerequisite-of	syntax based machine translation
+syntax	Is-a-Prerequisite-of	dependency syntax
+sentiment analysis	Is-a-Prerequisite-of	social media analysis
+planning	Is-a-Prerequisite-of	robotics
+planning	Is-a-Prerequisite-of	logic and logical agents
+planning	Is-a-Prerequisite-of	problem solving and search
+planning	Is-a-Prerequisite-of	adversarial search
+calculus	Is-a-Prerequisite-of	spectral methods
+calculus	Is-a-Prerequisite-of	harmonic functions
+calculus	Is-a-Prerequisite-of	mathematical models
+calculus	Is-a-Prerequisite-of	structured sparsity
+calculus	Is-a-Prerequisite-of	recursive neural network
+calculus	Is-a-Prerequisite-of	newton method
+calculus	Is-a-Prerequisite-of	machine learning resources
+calculus	Is-a-Prerequisite-of	latent variable models
+calculus	Is-a-Prerequisite-of	State Space Models
+calculus	Is-a-Prerequisite-of	Meta-Learning
+calculus	Is-a-Prerequisite-of	Mixture Models
+calculus	Is-a-Prerequisite-of	Manifold Learning
+shallow parsing	Is-a-Prerequisite-of	cky parsing
+matrix multiplication	Is-a-Prerequisite-of	Message Passing
+graph theory	Is-a-Prerequisite-of	Message Passing
+structured learning	Is-a-Prerequisite-of	word distributions
+structured learning	Is-a-Prerequisite-of	sentence representations
+structured learning	Is-a-Prerequisite-of	vector semantics
+structured learning	Is-a-Prerequisite-of	vector representations
+structured learning	Is-a-Prerequisite-of	semantic similarity
+lexical semantics	Is-a-Prerequisite-of	thesaurus-based similarity
+evaluation of language modeling	Is-a-Prerequisite-of	neural language modeling
+generative adversarial networks	Is-a-Prerequisite-of	Variations of GANs
+convolutional neural network	Is-a-Prerequisite-of	neural question answering
+convolutional neural network	Is-a-Prerequisite-of	ResNet
+question answering	Is-a-Prerequisite-of	neural question answering
+question answering	Is-a-Prerequisite-of	evaluation of question answering
+question answering	Is-a-Prerequisite-of	Visual QA
+speech processing	Is-a-Prerequisite-of	text to speech generation
+discourse analysis	Is-a-Prerequisite-of	discourse parsing
+dependency parsing	Is-a-Prerequisite-of	transition based dependency parsing
+dependency parsing	Is-a-Prerequisite-of	evaluation of dependency parsing
+programming languages	Is-a-Prerequisite-of	tools for dl
+search	Is-a-Prerequisite-of	uncertainty
+search	Is-a-Prerequisite-of	logic and logical agents
+search	Is-a-Prerequisite-of	informed search
+search	Is-a-Prerequisite-of	problem solving and search
+search	Is-a-Prerequisite-of	heuristic search
+search	Is-a-Prerequisite-of	adversarial search
+uncertainty	Is-a-Prerequisite-of	robotics
+long short term memory networks	Is-a-Prerequisite-of	memory networks
+long short term memory networks	Is-a-Prerequisite-of	neural question answering
+reinforcement learning	Is-a-Prerequisite-of	robotics
+reinforcement learning	Is-a-Prerequisite-of	agent-based view of ai
+probabilities	Is-a-Prerequisite-of	cky parsing
+probabilities	Is-a-Prerequisite-of	structured learning
+probabilities	Is-a-Prerequisite-of	mathematical models
+probabilities	Is-a-Prerequisite-of	speech processing
+probabilities	Is-a-Prerequisite-of	question answering
+probabilities	Is-a-Prerequisite-of	structured sparsity
+probabilities	Is-a-Prerequisite-of	social network extraction
+probabilities	Is-a-Prerequisite-of	variational bayes models
+probabilities	Is-a-Prerequisite-of	monte carlo tree search
+probabilities	Is-a-Prerequisite-of	recursive neural network
+probabilities	Is-a-Prerequisite-of	bayesian network
+probabilities	Is-a-Prerequisite-of	problem solving and search
+probabilities	Is-a-Prerequisite-of	hidden markov models
+probabilities	Is-a-Prerequisite-of	word distributions
+probabilities	Is-a-Prerequisite-of	classification
+probabilities	Is-a-Prerequisite-of	bayes theorem
+probabilities	Is-a-Prerequisite-of	statistical parsing
+probabilities	Is-a-Prerequisite-of	monte carlo methods
+probabilities	Is-a-Prerequisite-of	latent variable models
+probabilities	Is-a-Prerequisite-of	course introduction
+probabilities	Is-a-Prerequisite-of	Dirichlet Processes
+probabilities	Is-a-Prerequisite-of	Meta-Learning
+probabilities	Is-a-Prerequisite-of	Mixture Models
+probabilities	Is-a-Prerequisite-of	Manifold Learning
+probabilities	Is-a-Prerequisite-of	Naive Bayes
+monte carlo tree search	Is-a-Prerequisite-of	AlphaGo
+logic and logical agents	Is-a-Prerequisite-of	agent-based view of ai
+seq2seq	Is-a-Prerequisite-of	neural summarization
+linguistics basics	Is-a-Prerequisite-of	cky parsing
+linguistics basics	Is-a-Prerequisite-of	computational phonology
+linguistics basics	Is-a-Prerequisite-of	speech processing
+linguistics basics	Is-a-Prerequisite-of	discourse analysis
+linguistics basics	Is-a-Prerequisite-of	morphology and lexicon
+linguistics basics	Is-a-Prerequisite-of	course introduction
+linguistics basics	Is-a-Prerequisite-of	nlp and vision
+linguistics basics	Is-a-Prerequisite-of	semantic similarity
+linguistics basics	Is-a-Prerequisite-of	text to speech generation
+linguistics basics	Is-a-Prerequisite-of	nlp for the humanities
+feature learning	Is-a-Prerequisite-of	Manifold Learning
+bayesian network	Is-a-Prerequisite-of	hidden markov models
+hidden markov models	Is-a-Prerequisite-of	course introduction
+optimization	Is-a-Prerequisite-of	memory networks
+optimization	Is-a-Prerequisite-of	dual decomposition
+optimization	Is-a-Prerequisite-of	newton method
+optimization	Is-a-Prerequisite-of	machine learning resources
+optimization	Is-a-Prerequisite-of	KKT conditions
+optimization	Is-a-Prerequisite-of	Lagrange duality
+optimization	Is-a-Prerequisite-of	Meta-Learning
+generative and discriminative models	Is-a-Prerequisite-of	Variations of GANs
+word distributions	Is-a-Prerequisite-of	vector representations
+maximum likelihood estimation	Is-a-Prerequisite-of	Autoencoders
+wordnet	Is-a-Prerequisite-of	thesaurus-based similarity
+wordnet	Is-a-Prerequisite-of	lexical semantics
+beam search	Is-a-Prerequisite-of	neural summarization
+tree adjoining grammar	Is-a-Prerequisite-of	context sensitive grammar
+computer vision	Is-a-Prerequisite-of	nlp and vision
+context free grammar	Is-a-Prerequisite-of	cky parsing
+context free grammar	Is-a-Prerequisite-of	context sensitive grammar
+random walks	Is-a-Prerequisite-of	harmonic functions
+recurrent neural networks	Is-a-Prerequisite-of	neural question answering
+text summarization	Is-a-Prerequisite-of	neural summarization
+text summarization	Is-a-Prerequisite-of	summarization evaluation
+bayes theorem	Is-a-Prerequisite-of	question answering
+bayes theorem	Is-a-Prerequisite-of	bayesian network
+backpropagation	Is-a-Prerequisite-of	Variations of GANs
+backpropagation	Is-a-Prerequisite-of	Autoencoders
+logic and reasoning	Is-a-Prerequisite-of	predicate logic
+part of speech tagging	Is-a-Prerequisite-of	syntaxnet
+part of speech tagging	Is-a-Prerequisite-of	course introduction
+part of speech tagging	Is-a-Prerequisite-of	statistical part of speech tagging
+n-gram models	Is-a-Prerequisite-of	word distributions
+vector semantics	Is-a-Prerequisite-of	semantic similarity
+machine translation	Is-a-Prerequisite-of	morphology and semantics in machine translation
+machine translation	Is-a-Prerequisite-of	machine translation techniques
+machine translation	Is-a-Prerequisite-of	syntax based machine translation
+word embedding	Is-a-Prerequisite-of	syntaxnet
+word embedding	Is-a-Prerequisite-of	word embedding variations
+python	Is-a-Prerequisite-of	tools for dl
+kernel function	Is-a-Prerequisite-of	Mixture Models
+semi supervised learning	Is-a-Prerequisite-of	first-order logic
+parsing	Is-a-Prerequisite-of	syntaxnet
+parsing	Is-a-Prerequisite-of	statistical parsing
+parsing	Is-a-Prerequisite-of	semi supervised learning
+parsing	Is-a-Prerequisite-of	lexicalized parsing
+parsing	Is-a-Prerequisite-of	neural parsing
+parsing	Is-a-Prerequisite-of	parsing evaluation
+machine learning resources	Is-a-Prerequisite-of	semi-supervised learning
+machine learning resources	Is-a-Prerequisite-of	random walks and harmonic functions
+machine learning resources	Is-a-Prerequisite-of	Unsupervised learning
+machine learning resources	Is-a-Prerequisite-of	Meta-Learning
+information retrieval	Is-a-Prerequisite-of	toolkits for information retrieval
+information retrieval	Is-a-Prerequisite-of	document ranking
+information retrieval	Is-a-Prerequisite-of	search engines
+penn treebank	Is-a-Prerequisite-of	syntaxnet
+penn treebank	Is-a-Prerequisite-of	first-order logic
+bio text mining	Is-a-Prerequisite-of	nlp for biology
+neural networks	Is-a-Prerequisite-of	memory networks
+neural networks	Is-a-Prerequisite-of	neural question answering
+neural networks	Is-a-Prerequisite-of	neural language modeling
+neural networks	Is-a-Prerequisite-of	syntaxnet
+neural networks	Is-a-Prerequisite-of	convolutional neural networks
+neural networks	Is-a-Prerequisite-of	neural parsing
+neural networks	Is-a-Prerequisite-of	training neural networks
+neural networks	Is-a-Prerequisite-of	Autoencoders
+dimensionality reduction	Is-a-Prerequisite-of	Manifold Learning
+dimensionality reduction	Is-a-Prerequisite-of	Principal Component Analysis
+clustering	Is-a-Prerequisite-of	Mixture Models
+relation extraction	Is-a-Prerequisite-of	social media analysis
+vector representations	Is-a-Prerequisite-of	structured learning
+vector representations	Is-a-Prerequisite-of	evaluation of text classification
+first order logic	Is-a-Prerequisite-of	predicate logic
+language modeling	Is-a-Prerequisite-of	evaluation of language modeling
+language modeling	Is-a-Prerequisite-of	neural language modeling
+graphical models	Is-a-Prerequisite-of	Markov Random Fields
+graphical models	Is-a-Prerequisite-of	Mean Field Approximation
+semantic similarity	Is-a-Prerequisite-of	thesaurus-based similarity
+dynamic programming	Is-a-Prerequisite-of	cky parsing
+dynamic programming	Is-a-Prerequisite-of	course introduction
+statistical part of speech tagging	Is-a-Prerequisite-of	course introduction
+linear algebra	Is-a-Prerequisite-of	spectral methods
+linear algebra	Is-a-Prerequisite-of	structured learning
+linear algebra	Is-a-Prerequisite-of	mathematical models
+linear algebra	Is-a-Prerequisite-of	structured sparsity
+linear algebra	Is-a-Prerequisite-of	machine learning resources
+linear algebra	Is-a-Prerequisite-of	latent variable models
+linear algebra	Is-a-Prerequisite-of	dimensionality reduction
+linear algebra	Is-a-Prerequisite-of	Message Passing
+linear algebra	Is-a-Prerequisite-of	State Space Models
+linear algebra	Is-a-Prerequisite-of	Variations of GANs
+linear algebra	Is-a-Prerequisite-of	Mixture Models
+linear algebra	Is-a-Prerequisite-of	Manifold Learning
+linear algebra	Is-a-Prerequisite-of	Principal Component Analysis
+random walks and harmonic functions	Is-a-Prerequisite-of	semi-supervised learning
+random walks and harmonic functions	Is-a-Prerequisite-of	Unsupervised learning
+finite state machines	Is-a-Prerequisite-of	finite state transducers
+chomsky hierarchy	Is-a-Prerequisite-of	context sensitive grammar
+chomsky hierarchy	Is-a-Prerequisite-of	probabilistic grammars
+chomsky hierarchy	Is-a-Prerequisite-of	computation theory
+speech signal analysis	Is-a-Prerequisite-of	speech processing
+information extraction	Is-a-Prerequisite-of	social network extraction
+information extraction	Is-a-Prerequisite-of	social media analysis
+natural language processing intro	Is-a-Prerequisite-of	cky parsing
+natural language processing intro	Is-a-Prerequisite-of	chinese nlp
+natural language processing intro	Is-a-Prerequisite-of	speech processing
+natural language processing intro	Is-a-Prerequisite-of	discourse analysis
+natural language processing intro	Is-a-Prerequisite-of	machine translation
+natural language processing intro	Is-a-Prerequisite-of	parsing
+natural language processing intro	Is-a-Prerequisite-of	morphology and lexicon
+natural language processing intro	Is-a-Prerequisite-of	graph-based nlp
+natural language processing intro	Is-a-Prerequisite-of	course introduction
+natural language processing intro	Is-a-Prerequisite-of	vector representations
+natural language processing intro	Is-a-Prerequisite-of	nlp and vision
+natural language processing intro	Is-a-Prerequisite-of	semantic similarity
+natural language processing intro	Is-a-Prerequisite-of	text to speech generation
+natural language processing intro	Is-a-Prerequisite-of	nlp for the humanities
+loss function	Is-a-Prerequisite-of	speech processing
+loss function	Is-a-Prerequisite-of	classification
+loss function	Is-a-Prerequisite-of	machine learning resources
+loss function	Is-a-Prerequisite-of	latent variable models
+loss function	Is-a-Prerequisite-of	Variations of GANs
+loss function	Is-a-Prerequisite-of	Meta-Learning
+loss function	Is-a-Prerequisite-of	Autoencoders
+shift-reduce parsing	Is-a-Prerequisite-of	transition based dependency parsing
+knowledge representation	Is-a-Prerequisite-of	predicate logic
+singular value decomposition	Is-a-Prerequisite-of	Principal Component Analysis
+Gaussian graphical models	Is-a-Prerequisite-of	Mixture Models
+Principal Component Analysis	Is-a-Prerequisite-of	Manifold Learning
+Sampling	Is-a-Prerequisite-of	gibbs sampling
+syntax	Is-a-Prerequisite-of	penn treebank
+syntax	Is-a-Prerequisite-of	shift-reduce parsing
+planning	Is-a-Prerequisite-of	game playing in ai
+semi-supervised learning	Is-a-Prerequisite-of	graph convolutional networks
+semi-supervised learning	Is-a-Prerequisite-of	neural networks
+parts of speech	Is-a-Prerequisite-of	penn treebank
+structured learning	Is-a-Prerequisite-of	automated essay scoring
+structured learning	Is-a-Prerequisite-of	word embedding
+structured learning	Is-a-Prerequisite-of	document representation
+structured learning	Is-a-Prerequisite-of	bio text mining
+structured learning	Is-a-Prerequisite-of	recommendation system
+structured learning	Is-a-Prerequisite-of	context free grammars
+structured learning	Is-a-Prerequisite-of	tsne
+structured learning	Is-a-Prerequisite-of	text mining
+structured learning	Is-a-Prerequisite-of	linear discriminant analysis
+structured learning	Is-a-Prerequisite-of	kernels
+lexical semantics	Is-a-Prerequisite-of	event detection
+evaluation of language modeling	Is-a-Prerequisite-of	character level language models
+evaluation of language modeling	Is-a-Prerequisite-of	text generation
+toolkits for information retrieval	Is-a-Prerequisite-of	text mining
+toolkits for information retrieval	Is-a-Prerequisite-of	query expansion
+toolkits for information retrieval	Is-a-Prerequisite-of	information extraction
+classic parsing methods	Is-a-Prerequisite-of	semantic parsing
+classic parsing methods	Is-a-Prerequisite-of	shift-reduce parsing
+chinese nlp	Is-a-Prerequisite-of	spelling correction
+chinese nlp	Is-a-Prerequisite-of	automated essay scoring
+chinese nlp	Is-a-Prerequisite-of	grammar checker
+speech processing	Is-a-Prerequisite-of	speech synthesis
+programming languages	Is-a-Prerequisite-of	preprocessing
+evaluation of information retrieval	Is-a-Prerequisite-of	query expansion
+nlp for biology	Is-a-Prerequisite-of	bio text mining
+search	Is-a-Prerequisite-of	a* search
+search	Is-a-Prerequisite-of	game playing in ai
+neural summarization	Is-a-Prerequisite-of	scientific article summarization
+summarization evaluation	Is-a-Prerequisite-of	scientific article summarization
+robotics	Is-a-Prerequisite-of	robotic locomotion
+social network extraction	Is-a-Prerequisite-of	citation networks
+logic and logical agents	Is-a-Prerequisite-of	expert systems
+logic and logical agents	Is-a-Prerequisite-of	propositional logic
+linguistics basics	Is-a-Prerequisite-of	spelling correction
+linguistics basics	Is-a-Prerequisite-of	shallow parsing
+linguistics basics	Is-a-Prerequisite-of	language identification
+linguistics basics	Is-a-Prerequisite-of	dialog systems
+linguistics basics	Is-a-Prerequisite-of	event detection
+linguistics basics	Is-a-Prerequisite-of	automated essay scoring
+linguistics basics	Is-a-Prerequisite-of	semantic parsing
+linguistics basics	Is-a-Prerequisite-of	prosody
+linguistics basics	Is-a-Prerequisite-of	sentence simplification
+linguistics basics	Is-a-Prerequisite-of	word embedding
+linguistics basics	Is-a-Prerequisite-of	sentence boundary recognition
+linguistics basics	Is-a-Prerequisite-of	document representation
+linguistics basics	Is-a-Prerequisite-of	penn treebank
+linguistics basics	Is-a-Prerequisite-of	lexicography
+linguistics basics	Is-a-Prerequisite-of	text generation
+linguistics basics	Is-a-Prerequisite-of	bio text mining
+linguistics basics	Is-a-Prerequisite-of	recommendation system
+linguistics basics	Is-a-Prerequisite-of	edit distance
+linguistics basics	Is-a-Prerequisite-of	context free grammars
+linguistics basics	Is-a-Prerequisite-of	probabilistic context free grammars
+linguistics basics	Is-a-Prerequisite-of	speech synthesis
+linguistics basics	Is-a-Prerequisite-of	relation extraction
+linguistics basics	Is-a-Prerequisite-of	phonetics
+linguistics basics	Is-a-Prerequisite-of	feature selection
+linguistics basics	Is-a-Prerequisite-of	language modeling
+linguistics basics	Is-a-Prerequisite-of	noisy channel model
+linguistics basics	Is-a-Prerequisite-of	query expansion
+linguistics basics	Is-a-Prerequisite-of	word segmentation
+linguistics basics	Is-a-Prerequisite-of	word sense disambiguation
+linguistics basics	Is-a-Prerequisite-of	semantic role labeling
+linguistics basics	Is-a-Prerequisite-of	chomsky hierarchy
+linguistics basics	Is-a-Prerequisite-of	named entity recognition
+linguistics basics	Is-a-Prerequisite-of	grammar checker
+linguistics basics	Is-a-Prerequisite-of	information extraction
+linguistics basics	Is-a-Prerequisite-of	propositional logic
+linguistics basics	Is-a-Prerequisite-of	kernels
+linguistics basics	Is-a-Prerequisite-of	shift-reduce parsing
+linguistics basics	Is-a-Prerequisite-of	knowledge representation
+linguistics basics	Is-a-Prerequisite-of	entailment
+linguistics basics	Is-a-Prerequisite-of	Sequence to sequence
+problem solving and search	Is-a-Prerequisite-of	game playing in ai
+word distributions	Is-a-Prerequisite-of	word embedding
+word distributions	Is-a-Prerequisite-of	topic modeling
+word distributions	Is-a-Prerequisite-of	document representation
+word distributions	Is-a-Prerequisite-of	character level language models
+word distributions	Is-a-Prerequisite-of	context free grammars
+word distributions	Is-a-Prerequisite-of	language modeling
+classification	Is-a-Prerequisite-of	sentiment analysis
+classification	Is-a-Prerequisite-of	sequence classification and conditional random fields
+classification	Is-a-Prerequisite-of	sentence boundary recognition
+probabilistic grammars	Is-a-Prerequisite-of	probabilistic context free grammars
+recurrent neural networks	Is-a-Prerequisite-of	neural turing machine
+recurrent neural networks	Is-a-Prerequisite-of	gated recurrent units
+text similarity	Is-a-Prerequisite-of	event detection
+text similarity	Is-a-Prerequisite-of	document representation
+text similarity	Is-a-Prerequisite-of	bio text mining
+text similarity	Is-a-Prerequisite-of	recommendation system
+text similarity	Is-a-Prerequisite-of	text mining
+text similarity	Is-a-Prerequisite-of	word sense disambiguation
+text similarity	Is-a-Prerequisite-of	information extraction
+logic and reasoning	Is-a-Prerequisite-of	propositional logic
+logic and reasoning	Is-a-Prerequisite-of	knowledge representation
+sentence representations	Is-a-Prerequisite-of	sentiment analysis
+sentence representations	Is-a-Prerequisite-of	automated essay scoring
+sentence representations	Is-a-Prerequisite-of	sentence simplification
+sentence representations	Is-a-Prerequisite-of	text summarization
+sentence representations	Is-a-Prerequisite-of	neural machine translation
+sentence representations	Is-a-Prerequisite-of	document representation
+sentence representations	Is-a-Prerequisite-of	text mining
+sentence representations	Is-a-Prerequisite-of	information extraction
+vector semantics	Is-a-Prerequisite-of	automated essay scoring
+vector semantics	Is-a-Prerequisite-of	word embedding
+vector semantics	Is-a-Prerequisite-of	document representation
+vector semantics	Is-a-Prerequisite-of	bio text mining
+vector semantics	Is-a-Prerequisite-of	recommendation system
+vector semantics	Is-a-Prerequisite-of	context free grammars
+vector semantics	Is-a-Prerequisite-of	tsne
+vector semantics	Is-a-Prerequisite-of	text mining
+vector semantics	Is-a-Prerequisite-of	word sense disambiguation
+vector semantics	Is-a-Prerequisite-of	kernels
+machine translation	Is-a-Prerequisite-of	statistical machine translation
+machine translation	Is-a-Prerequisite-of	neural machine translation
+machine translation	Is-a-Prerequisite-of	noisy channel model
+machine translation	Is-a-Prerequisite-of	the ibm models
+heuristic search	Is-a-Prerequisite-of	a* search
+python	Is-a-Prerequisite-of	preprocessing
+parsing	Is-a-Prerequisite-of	shallow parsing
+parsing	Is-a-Prerequisite-of	event detection
+parsing	Is-a-Prerequisite-of	semantic parsing
+parsing	Is-a-Prerequisite-of	dependency parsing
+convolutional neural networks	Is-a-Prerequisite-of	graph convolutional networks
+deep learning introduction	Is-a-Prerequisite-of	neural turing machine
+deep learning introduction	Is-a-Prerequisite-of	word embedding
+deep learning introduction	Is-a-Prerequisite-of	neural machine translation
+deep learning introduction	Is-a-Prerequisite-of	stack lstm
+machine learning resources	Is-a-Prerequisite-of	word embedding
+machine learning resources	Is-a-Prerequisite-of	latent dirichlet allocation
+machine learning resources	Is-a-Prerequisite-of	kernel function
+machine learning resources	Is-a-Prerequisite-of	log-linear models
+machine learning resources	Is-a-Prerequisite-of	spectral clustering
+machine learning resources	Is-a-Prerequisite-of	sequence classification and conditional random fields
+machine learning resources	Is-a-Prerequisite-of	logistic regression
+machine learning resources	Is-a-Prerequisite-of	k means
+machine learning resources	Is-a-Prerequisite-of	neural networks
+machine learning resources	Is-a-Prerequisite-of	game playing in ai
+machine learning resources	Is-a-Prerequisite-of	speech synthesis
+machine learning resources	Is-a-Prerequisite-of	matrix factorization
+machine learning resources	Is-a-Prerequisite-of	tsne
+machine learning resources	Is-a-Prerequisite-of	autonomous cars
+machine learning resources	Is-a-Prerequisite-of	linear discriminant analysis
+machine learning resources	Is-a-Prerequisite-of	loss function
+machine learning resources	Is-a-Prerequisite-of	linear regression
+information retrieval	Is-a-Prerequisite-of	text mining
+information retrieval	Is-a-Prerequisite-of	image retrieval
+monte carlo methods	Is-a-Prerequisite-of	particle filter
+monte carlo methods	Is-a-Prerequisite-of	latent dirichlet allocation
+machine translation techniques	Is-a-Prerequisite-of	statistical machine translation
+machine translation techniques	Is-a-Prerequisite-of	neural machine translation
+latent variable models	Is-a-Prerequisite-of	latent dirichlet allocation
+latent variable models	Is-a-Prerequisite-of	topic modeling
+latent variable models	Is-a-Prerequisite-of	linear discriminant analysis
+latent variable models	Is-a-Prerequisite-of	expectation maximization algorithm
+morphology and lexicon	Is-a-Prerequisite-of	query expansion
+graph-based nlp	Is-a-Prerequisite-of	citation networks
+graph-based nlp	Is-a-Prerequisite-of	pagerank
+dimensionality reduction	Is-a-Prerequisite-of	tsne
+dimensionality reduction	Is-a-Prerequisite-of	latent semantic indexing
+dimensionality reduction	Is-a-Prerequisite-of	singular value decomposition
+vector representations	Is-a-Prerequisite-of	automated essay scoring
+vector representations	Is-a-Prerequisite-of	bag of words model
+vector representations	Is-a-Prerequisite-of	word embedding
+vector representations	Is-a-Prerequisite-of	bio text mining
+vector representations	Is-a-Prerequisite-of	recommendation system
+vector representations	Is-a-Prerequisite-of	context free grammars
+vector representations	Is-a-Prerequisite-of	tsne
+vector representations	Is-a-Prerequisite-of	text mining
+vector representations	Is-a-Prerequisite-of	word sense disambiguation
+vector representations	Is-a-Prerequisite-of	kernels
+semantic similarity	Is-a-Prerequisite-of	automated essay scoring
+semantic similarity	Is-a-Prerequisite-of	sentence simplification
+semantic similarity	Is-a-Prerequisite-of	relation extraction
+semantic similarity	Is-a-Prerequisite-of	text mining
+semantic similarity	Is-a-Prerequisite-of	word sense disambiguation
+evaluation of text classification	Is-a-Prerequisite-of	sentiment analysis
+evaluation of text classification	Is-a-Prerequisite-of	language identification
+evaluation of text classification	Is-a-Prerequisite-of	relation extraction
+random walks and harmonic functions	Is-a-Prerequisite-of	sentiment analysis
+random walks and harmonic functions	Is-a-Prerequisite-of	scientific article summarization
+random walks and harmonic functions	Is-a-Prerequisite-of	weakly-supervised learning
+random walks and harmonic functions	Is-a-Prerequisite-of	neural networks
+random walks and harmonic functions	Is-a-Prerequisite-of	relation extraction
+training neural networks	Is-a-Prerequisite-of	pointer networks
+training neural networks	Is-a-Prerequisite-of	graph convolutional networks
+training neural networks	Is-a-Prerequisite-of	recursive neural networks
+training neural networks	Is-a-Prerequisite-of	stack lstm
+natural language processing intro	Is-a-Prerequisite-of	spelling correction
+natural language processing intro	Is-a-Prerequisite-of	shallow parsing
+natural language processing intro	Is-a-Prerequisite-of	language identification
+natural language processing intro	Is-a-Prerequisite-of	dialog systems
+natural language processing intro	Is-a-Prerequisite-of	event detection
+natural language processing intro	Is-a-Prerequisite-of	automated essay scoring
+natural language processing intro	Is-a-Prerequisite-of	semantic parsing
+natural language processing intro	Is-a-Prerequisite-of	sentence simplification
+natural language processing intro	Is-a-Prerequisite-of	tokenization
+natural language processing intro	Is-a-Prerequisite-of	word embedding
+natural language processing intro	Is-a-Prerequisite-of	regular expressions
+natural language processing intro	Is-a-Prerequisite-of	sentence boundary recognition
+natural language processing intro	Is-a-Prerequisite-of	document representation
+natural language processing intro	Is-a-Prerequisite-of	penn treebank
+natural language processing intro	Is-a-Prerequisite-of	lexicography
+natural language processing intro	Is-a-Prerequisite-of	text generation
+natural language processing intro	Is-a-Prerequisite-of	bio text mining
+natural language processing intro	Is-a-Prerequisite-of	recommendation system
+natural language processing intro	Is-a-Prerequisite-of	edit distance
+natural language processing intro	Is-a-Prerequisite-of	context free grammars
+natural language processing intro	Is-a-Prerequisite-of	probabilistic context free grammars
+natural language processing intro	Is-a-Prerequisite-of	relation extraction
+natural language processing intro	Is-a-Prerequisite-of	feature selection
+natural language processing intro	Is-a-Prerequisite-of	language modeling
+natural language processing intro	Is-a-Prerequisite-of	text mining
+natural language processing intro	Is-a-Prerequisite-of	noisy channel model
+natural language processing intro	Is-a-Prerequisite-of	query expansion
+natural language processing intro	Is-a-Prerequisite-of	word segmentation
+natural language processing intro	Is-a-Prerequisite-of	word sense disambiguation
+natural language processing intro	Is-a-Prerequisite-of	semantic role labeling
+natural language processing intro	Is-a-Prerequisite-of	chomsky hierarchy
+natural language processing intro	Is-a-Prerequisite-of	named entity recognition
+natural language processing intro	Is-a-Prerequisite-of	grammar checker
+natural language processing intro	Is-a-Prerequisite-of	information extraction
+natural language processing intro	Is-a-Prerequisite-of	propositional logic
+natural language processing intro	Is-a-Prerequisite-of	kernels
+natural language processing intro	Is-a-Prerequisite-of	shift-reduce parsing
+natural language processing intro	Is-a-Prerequisite-of	knowledge representation
+natural language processing intro	Is-a-Prerequisite-of	entailment
+natural language processing intro	Is-a-Prerequisite-of	Sequence to sequence
+parsing evaluation	Is-a-Prerequisite-of	semantic parsing
+multi-agent systems	Is-a-Prerequisite-of	game playing in ai
+Markov chains	Is-a-Prerequisite-of	markov decision processes
+Markov chains	Is-a-Prerequisite-of	latent dirichlet allocation
+Markov chains	Is-a-Prerequisite-of	markov chain monte carlo
+Unsupervised learning	Is-a-Prerequisite-of	reinforcement learning
+Unsupervised learning	Is-a-Prerequisite-of	spectral clustering
+Unsupervised learning	Is-a-Prerequisite-of	k means
+Unsupervised learning	Is-a-Prerequisite-of	neural networks
+Unsupervised learning	Is-a-Prerequisite-of	tsne
+Mixture Models	Is-a-Prerequisite-of	expectation maximization algorithm
+Principal Component Analysis	Is-a-Prerequisite-of	matrix factorization
+Principal Component Analysis	Is-a-Prerequisite-of	latent semantic indexing
+Sampling	Is-a-Prerequisite-of	markov chain monte carlo
+word embedding variations	Is-a-Prerequisite-of	multilingual word embedding
+word embedding variations	Is-a-Prerequisite-of	word sense disambiguation

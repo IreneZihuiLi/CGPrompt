@@ -39,7 +39,7 @@ class KnowledgeGraphLLM(LLM):
 
         # if the object does not habe the attribute triples
         if not hasattr(response, 'triples'):
-            return "No triples extracted."
+            return "None"
         return json.dumps(response.triples).replace('\n', '')
 
     @staticmethod

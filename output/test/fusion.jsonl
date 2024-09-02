@@ -1,1 +1,3 @@
-{"s": "OCR post-correction", "p": "Compare", "o": "spelling correction"}
+{"s": "spelling correction", "p": "Is-a-Prerequisite-of", "o": "language understanding"}
+{"s": "spelling correction", "p": "Is-a-Prerequisite-of", "o": "Chinese Spelling Correction (CSC)"}
+{"s": "spelling correction", "p": "Is-a-Prerequisite-of", "o": "Chinese spelling correction (CSC)"}
