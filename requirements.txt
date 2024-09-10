@@ -4,3 +4,15 @@ langchain
 langchain-openai
 pandas
 networkx[default]
+accelerate
+datasets
+transformers
+fugashi
+ipadic
+tiktoken
+umap
+scikit-learn
+bertopic
+sentence-transformers
+nltk
+fuzzywuzzy

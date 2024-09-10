@@ -1,0 +1,16 @@
+### Instruction:
+You are a domain expert in medicine and bio-chemistry, and now you are building a
+knowledge graph for this domain. Your task is to extract concepts from the scientific abstract (### Content).
+These concepts will be used as nodes/entities to build the knowledge graph.
+These concepts should be fine-grained: could be introduced by a lecture slide page, or a whole lecture,
+or possibly to have a Wikipedia page.
+
+Additional information:
+The knowledge graph will have the following relations:
+{relation_definitions}
+
+Provide the output as a list of comma seperated concepts, for example:
+concept1, concept2, concept3, concept4, concept5
+
+
+### Content: {abstracts}
